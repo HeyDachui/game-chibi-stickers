@@ -1,0 +1,288 @@
+[
+  {
+    "id": "World_D_A",
+    "name": "阿尔特盖德",
+    "faction": "魔族",
+    "region": "Global playtest",
+    "build_id": "25344886",
+    "image_url": "https://aion2.dev/assets/maps/World_D_A.jpg",
+    "point_count": 621,
+    "name_original": "Altgard",
+    "subzones": [
+      "Safe Haven",
+      "Dredgion Crash Site",
+      "Spirit Isle",
+      "Shadow Hall",
+      "Calderon Canyon",
+      "Silent Hill",
+      "Moslan Forest",
+      "Sanctum Outpost",
+      "Uruthumheim",
+      "Victorious Daeva's Statue",
+      "Nornir Assembly",
+      "Purifying Forest",
+      "Root of the Sacred Tree Entrance",
+      "Fire Altar",
+      "Water Altar",
+      "Nameless Cemetery",
+      "Dranactus",
+      "Watchtower Camp",
+      "Battlescar Mound",
+      "Briskwind Shelter",
+      "Basfelt Ruins",
+      "Shulak Street Stall",
+      "Legion Base Ruins",
+      "North Laborer's Tent",
+      "Fafnite Deposit",
+      "Western Gribade Highland",
+      "Eastern Gribade Highland",
+      "Black Claw Village",
+      "Zemurru's Tomb",
+      "Barahta Extermination Unit Outpost",
+      "Secret Rendezvous Point",
+      "Lagta Fortress",
+      "Impetusium Square",
+      "Tranein Highland",
+      "Southern Gribade Highland",
+      "Immortal Isle",
+      "Neglected Crematorium",
+      "FQ_D1_District_EP3_5_Subzone",
+      "Forest Hideout",
+      "Minushan Site",
+      "Faded Stump",
+      "Guide Rest Stop",
+      "Hidden Cave",
+      "Basfelt Waterfall",
+      "裂隙洞穴",
+      "阿尔特盖德",
+      "Mahindel River",
+      "Mahindel Cliff",
+      "Steel Hammer Workcamp",
+      "Idun's Lake",
+      "Muqaka's Quarters",
+      "FQ_D1_District_EP6_1_Subzone",
+      "Collapsed Hall Of Fame",
+      "Outskirts Stall",
+      "Guide's Dwelling",
+      "Zikel's Sanctum",
+      "Tranein Pond",
+      "Odar's Shade",
+      "Crypt"
+    ],
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "map",
+          "record_id": "World_D_A",
+          "node_id": "A2-V001",
+          "scope_role": "source_scope",
+          "basis": "客户端构建25344886",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": null
+        }
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "World_D_B",
+    "name": "莫尔海姆",
+    "faction": "魔族",
+    "region": "Global playtest",
+    "build_id": "25344886",
+    "image_url": "https://aion2.dev/assets/maps/World_D_B.jpg",
+    "point_count": 160,
+    "name_original": "Morheim",
+    "subzones": [
+      "Kromede's Island",
+      "莫尔海姆",
+      "Halabana Canyon",
+      "Muspel Volcano Zone",
+      "Nephra Snowfield",
+      "Patamor Plains",
+      "Patamor Village",
+      "Patamor Plains Outskirts",
+      "Sleet Outpost",
+      "Floating Temple of Arkanis Plaza",
+      "Iralcig Outpost"
+    ],
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "map",
+          "record_id": "World_D_B",
+          "node_id": "A2-V001",
+          "scope_role": "source_scope",
+          "basis": "客户端构建25344886",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": null
+        }
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "World_L_A",
+    "name": "贝尔特伦",
+    "faction": "天族",
+    "region": "Global playtest",
+    "build_id": "25344886",
+    "image_url": "https://aion2.dev/assets/maps/World_L_A.jpg",
+    "point_count": 621,
+    "name_original": "Verteron",
+    "subzones": [
+      "贝尔特伦",
+      "Cantas Valley",
+      "Contaminated Marsh",
+      "Drana Processing Area",
+      "Tolbas Forest",
+      "Destroyed Abyss Gate",
+      "Verteron Fortress Ruins",
+      "Ellun River Marsh",
+      "Western Cantas Valley",
+      "Destroyed Temple Site",
+      "Ellun River Midstream",
+      "Aullaeu Village",
+      "Contaminated Sanctum",
+      "Aullaeu Funeral Island",
+      "Garden of the Illusion God",
+      "Wind Breeze Merchant HQ",
+      "Northern Tolbas Forest",
+      "Aullaeu Village Border",
+      "Dawn Legion Temporary Outpost",
+      "Pilgrim's Ridge",
+      "Zumion Village",
+      "Altamia Canyon",
+      "Ancient Zumion Temple Site",
+      "Rock Tomb Hill",
+      "Eastern Cantas Campsite",
+      "Purifying Altar",
+      "Kraka Footpath",
+      "Drana Transport Hub",
+      "Drana Plantation",
+      "Marsh Outpost",
+      "Scarlet Forest",
+      "Scarlet Forest Observation Site",
+      "Southern Tolbas Forest",
+      "Southern Shugo Station",
+      "Eastern Cantas Valley",
+      "Forest of Exiles",
+      "Eastern Altamia Highland",
+      "Southern Altamia Highland",
+      "CantasValley_Subzone_1",
+      "Kraka Footpath Campsite",
+      "Crimson Isle Outpost",
+      "Cantas Valley Base",
+      "Eternal Isle",
+      "Dawn Legion Base",
+      "Anguish Hill",
+      "Krall Command Post"
+    ],
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "map",
+          "record_id": "World_L_A",
+          "node_id": "A2-V001",
+          "scope_role": "source_scope",
+          "basis": "客户端构建25344886",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": null
+        }
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "World_L_B",
+    "name": "埃尔特内",
+    "faction": "天族",
+    "region": "Global playtest",
+    "build_id": "25344886",
+    "image_url": "https://aion2.dev/assets/maps/World_L_B.jpg",
+    "point_count": 160,
+    "name_original": "Eltnen",
+    "subzones": [
+      "埃尔特内",
+      "Ruberein Highland",
+      "Eltnen Barrier Tower Ruins",
+      "Lankusis Highland",
+      "Western Dartas Plains",
+      "Kuriullu Valley",
+      "Eastern Dartas Plains",
+      "Lacephin Village",
+      "Lepharist Research Center Annex",
+      "Fractured Land"
+    ],
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "map",
+          "record_id": "World_L_B",
+          "node_id": "A2-V001",
+          "scope_role": "source_scope",
+          "basis": "客户端构建25344886",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": null
+        }
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "World_D_Starter",
+    "name": "伊斯夏尔根",
+    "faction": "魔族",
+    "region": "Global playtest",
+    "build_id": "25344886",
+    "image_url": "https://aion2.dev/assets/maps/World_D_Starter.jpg",
+    "point_count": 0,
+    "name_original": "Ishalgen",
+    "subzones": [],
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "map",
+          "record_id": "World_D_Starter",
+          "node_id": "A2-V001",
+          "scope_role": "source_scope",
+          "basis": "客户端构建25344886",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": null
+        }
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "World_L_Starter",
+    "name": "普埃塔",
+    "faction": "天族",
+    "region": "Global playtest",
+    "build_id": "25344886",
+    "image_url": "https://aion2.dev/assets/maps/World_L_Starter.jpg",
+    "point_count": 0,
+    "name_original": "Poeta",
+    "subzones": [],
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "map",
+          "record_id": "World_L_Starter",
+          "node_id": "A2-V001",
+          "scope_role": "source_scope",
+          "basis": "客户端构建25344886",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": null
+        }
+      ],
+      "notes": []
+    }
+  }
+]

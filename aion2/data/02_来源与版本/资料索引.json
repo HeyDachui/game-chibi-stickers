@@ -1,0 +1,4461 @@
+[
+  {
+    "id": "1ddc29d6976b",
+    "title": "日服官方素材与世界介绍",
+    "topic": "世界背景",
+    "body_file": "01_中文正文/世界背景.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "1ddc29d6976b",
+          "node_id": "A2-V012",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T15:59:16.761981+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "1ddc29d6976b",
+          "node_id": "A2-V004",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T15:59:16.761981+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "1ddc29d6976b",
+        "title": "AION2 - トップへ",
+        "source_identity": "NCSOFT Japan official Global site",
+        "url": "https://aion2.ncsoft.jp/en/contents",
+        "region": "Global官方宣传资料",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T15:59:16.761981+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "52d36632c58e",
+    "title": "上线预告片文字介绍",
+    "topic": "世界背景",
+    "body_file": "01_中文正文/世界背景.md",
+    "has_body": false,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "52d36632c58e",
+          "node_id": "A2-V004",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "52d36632c58e",
+          "node_id": "A2-V003",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "52d36632c58e",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "52d36632c58e",
+          "node_id": "A2-V015",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [
+        "全球版发布\n\n# 永恒之塔2发布预告片\n\n2026年6月5日，NCSOFT在夏季游戏节上首次公开了永恒之塔2的官方发布预告片，并宣布将于2026年9月在Steam和PURPLE启动器上全球PC上线。NCSOFT后来将日期定为2026年10月5日，并从2026年9月30日开始提供创始人礼包提前进入。\n\n## 发布预告片及其确认的日期\n\n2026年6月5日，NCSOFT在永恒之塔2官方YouTube频道的夏季游戏节2026活动上首次发布了永恒之塔2的‘发布预告片’，该频道直接链接自游戏的Steam商店页面，因此这是最官方的发布信息。时长为1分33秒的预告片是全球版本首次发布的品牌宣传视频，其描述部分用五个词概括了核心信息：‘今年9月全球上线’。\n\n这句简短的话，是全球版本宣布以来，西方玩家收到的关于永恒之塔2最大的新闻。它将NCSOFT此前‘2026年下半年’的发布时间指引，首次明确为具体月份——2026年9月。确切的日期尚未公布（截至2026年7月13日，Steam页面已将标签更新为‘计划发布日期：2026年9月’），但月份现已由NCSOFT官方渠道正式确认。\n\n▶ 在YouTube上观看永恒之塔2发布预告片\n\n## 预告片强调的内容\n\n预告片的官方描述将永恒之塔2定位为‘唯一专为空中战斗设计的MMORPG’，并号召玩家‘升空，为你的阵营而战’。除了发布窗口，它还突出了NCSOFT为全球版本主打的几个核心卖点：一个专为数千名玩家打造的巨大世界、陆地与天空之间的真正飞行体验、丰富的角色自定义系统，包括深度的外观和染色系统、可收集的宠物，以及以阵营为核心的体验，这些体验将决定你的游戏方式。\n\n这些核心卖点与官方Steam页面自全球发布以来所披露的内容完全一致：一个基于虚幻引擎5、规模是原版永恒之塔36倍的巨大世界、PC端免费游玩、超过200个副本（支持单人、4人及8人模式），以及天族与魔族之间的阵营战争，深渊将玩家对抗环境与玩家对战融为一体。\n\n## 为何该预告片是预期之中的\n\n这次发布并非意外之举。NCSOFT于2026年5月中旬宣布，永恒之塔2将在6月的夏季游戏节上以新预告片和关键信息亮相，官方永恒之塔2 X账号在活动前一天就提前预告了该预告片，并引导粉丝前往6月5日的直播。夏季游戏节是业内最大的夏季展示活动，这表明NCSOFT在西方市场发布上投入了大量资源。\n\n它也符合公司宣布的计划，即从2026年5月至6月开始分享更多全球上线的详细信息。如今该月份已公开，接下来需要关注的要点包括确切的上线日期、全球预注册及其奖励，以及针对西方玩家的任何预上线测试——这些目前均未宣布。\n\n## 如果你在等待全球上线，这意味着什么\n\n如果你计划在上线时开始游玩，实际的结论很简单：宣传片中提到的9月窗口期现已确定为固定日期。NC将上线日期定为2026年10月5日：永恒之塔2将通过Steam和NC的PURPLE启动器在PC平台上线，免费游玩，提供创始人礼包提前体验，从9月30日开始，设有北美、南美、欧洲和亚洲的区域服务器，支持10种语言。在Steam上添加愿望列表仍然是获得上线通知最可靠的方式。\n\n国际版与2025年11月19日开放的韩台服分别运营；截至本文更新时间，尚未公布角色或进度继承安排。\n\n## 官方来源\n\n• 永恒之塔2上线预告片（永恒之塔2官方YouTube）↗\n• 永恒之塔2在Steam（官方商店页面——愿望列表在此）↗\n• 永恒之塔2全球官网——订阅新闻通讯（plaync）↗\n\n## 常见问题\n\n### 永恒之塔2的上线预告片是什么时候发布的？\n\n官方永恒之塔2上线预告片于2026年6月5日在永恒之塔2官方YouTube频道的2026年夏季游戏节上首次亮相，时长为1分33秒。\n\n### 永恒之塔2预告片确认的上线日期是什么？\n\n全球PC版上线时间为2026年9月：预告片的官方描述中提到游戏将‘于今年9月全球上线’。NC后来将日期更改为2026年10月5日，并在2026年8月25日gamescom开幕夜直播中通过《全球上线日期预告片》正式宣布，Steam商店页面的发布日期字段现已更新为2026年10月5日。\n\n### 我可以在哪里观看永恒之塔2的上线预告片？\n\n在永恒之塔2官方YouTube频道——与游戏官方Steam商店页面链接的同一频道。我们在此页面直接提供链接。\n\n### 永恒之塔2全球将登陆哪些平台？\n\n仅限PC平台，通过Steam和NCSOFT的PURPLE启动器上线，为免费游玩游戏。计划设立北美、南美、欧洲和亚洲的区域服务器，支持10种语言。目前尚未宣布任何全球主机或移动端版本。\n\n### 全球版本是否有预注册或内测？\n\n在预告片发布时，尚未宣布任何预注册或内测活动。此后，NC于2026年9月17日至18日在Steam和PURPLE平台开展了免费的上线规模测试，并销售包含9月30日起提前体验权限的创始人礼包。目前没有正式的预注册入口；官网的新闻通讯会提供上线奖励信息，而在Steam上为永恒之塔2添加愿望列表可获得上线通知。\n\n## 继续探索\n\n永恒之塔2上线日期 预注册与内测 永恒之塔2是否免费游玩？ 系统需求 职业与种族\n\n← 所有永恒之塔2指南"
+      ],
+      "source": {
+        "id": "52d36632c58e",
+        "title": "AION 2 Launch Reveal Trailer",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/guides/aion-2-launch-trailer",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-19"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "d9d11ac14df2",
+    "title": "付费项目与实际游戏开销",
+    "topic": "付费与交易",
+    "body_file": "01_中文正文/付费与交易.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "d9d11ac14df2",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "d9d11ac14df2",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "d9d11ac14df2",
+        "title": "What the game actually costs",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/monetization/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "db49cd9b830c",
+    "title": "免费游玩、会员与付费内容",
+    "topic": "付费与交易",
+    "body_file": "01_中文正文/付费与交易.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "db49cd9b830c",
+          "node_id": "A2-V004",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "db49cd9b830c",
+          "node_id": "A2-V003",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "db49cd9b830c",
+          "node_id": "A2-V009",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "db49cd9b830c",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "db49cd9b830c",
+          "node_id": "A2-V015",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "db49cd9b830c",
+        "title": "Is Aion 2 Free to Play?",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/guides/aion-2-free-to-play",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-19"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "global-trade-client",
+    "title": "国际版：交易与客户端安排",
+    "topic": "付费与交易",
+    "body_file": "01_中文正文/付费与交易.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "global-trade-client",
+          "node_id": "A2-V023",
+          "scope_role": "current",
+          "basis": "国际版开服公告及SUN提供的采访笔记",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "global-trade-client",
+        "title": "国际版：交易与客户端安排",
+        "source_identity": "NCSOFT／9月19日测试结束公告",
+        "url": "https://steamcommunity.com/games/3393110/announcements/detail/716789922107753643",
+        "region": "国际版",
+        "version": "国际版 · 开服版本",
+        "source_dates": [
+          "2026-09-19"
+        ],
+        "retrieved_at": "2026-09-30",
+        "adoption": "已采用数据"
+      }
+    }
+  },
+  {
+    "id": "00abf311fd02",
+    "title": "克拉尔洞穴困难：三王站位与灭团机制",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "00abf311fd02",
+          "node_id": "A2-V013",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30T02:36:11.723483+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "00abf311fd02",
+        "title": "Krao Cave (Hard) — Dungeon Guide | Aion 2",
+        "source_identity": "Aion2T／Qaser",
+        "url": "https://aion2t.com/guides/krao-cave",
+        "region": "地区未注明",
+        "version": "A2-V013",
+        "source_dates": [
+          "2026-02-25"
+        ],
+        "retrieved_at": "2026-09-30T02:36:11.723483+00:00",
+        "adoption": "中文攻略要点已入库；本地原件"
+      }
+    }
+  },
+  {
+    "id": "0319919bcd09",
+    "title": "卢德莱圣域：分队与关键协作",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "0319919bcd09",
+          "node_id": "A2-V013",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30T02:36:12.891070+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "0319919bcd09",
+        "title": "Sanctuary (Ludra) — Dungeon Guide | Aion 2",
+        "source_identity": "Aion2T／Qaser",
+        "url": "https://aion2t.com/guides/sanctuary-ludra",
+        "region": "地区未注明",
+        "version": "A2-V013",
+        "source_dates": [
+          "2026-03-06"
+        ],
+        "retrieved_at": "2026-09-30T02:36:12.891070+00:00",
+        "adoption": "中文攻略要点已入库；本地原件"
+      }
+    }
+  },
+  {
+    "id": "1982eb81a3ec",
+    "title": "火之神殿：优先取得武器",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "1982eb81a3ec",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "1982eb81a3ec",
+          "node_id": "A2-V004",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "1982eb81a3ec",
+          "node_id": "A2-V003",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "1982eb81a3ec",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "1982eb81a3ec",
+        "title": "Fire Temple — weapon first",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/activities/fire-temple/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "213a88f4f0c5",
+    "title": "瓦克隆空中岛：下一阶段的装备提升",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "213a88f4f0c5",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "213a88f4f0c5",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "213a88f4f0c5",
+        "title": "Vakron's Sky Island — the big jump",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/vakron/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "3194d74071ef",
+    "title": "凶猛角兽巢穴（凶猛之角暗窟）：三个首领的关键机制",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "3194d74071ef",
+          "node_id": "A2-V013",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30T02:36:11.474343+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "3194d74071ef",
+        "title": "Ferocious Horn Den — Dungeon Guide | Aion 2",
+        "source_identity": "Aion2T／Qaser",
+        "url": "https://aion2t.com/guides/ferocious-horn-den",
+        "region": "地区未注明",
+        "version": "A2-V013",
+        "source_dates": [
+          "2026-09-23"
+        ],
+        "retrieved_at": "2026-09-30T02:36:11.474343+00:00",
+        "adoption": "中文攻略要点已入库；本地原件"
+      }
+    }
+  },
+  {
+    "id": "38c7999279b2",
+    "title": "凶猛角兽巢穴：七次通关与百分比提升",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "38c7999279b2",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "38c7999279b2",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "38c7999279b2",
+        "title": "Ferocious Horn Den — seven runs, one percent",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/activities/horn-den/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "57a5c3f04f4b",
+    "title": "封印副本：地图问号与首次奖励",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "57a5c3f04f4b",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "57a5c3f04f4b",
+        "title": "Sealed Dungeons — the question marks on your map",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/activities/sealed-dungeons/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-23"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "57e9c1ecaa2b",
+    "title": "侵蚀净化所：三首领协作要点",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "57e9c1ecaa2b",
+          "node_id": "A2-V013",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-07-09",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30T02:36:12.373607+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "57e9c1ecaa2b",
+        "title": "Corroded Decontamination Facility — Guide Aion 2 | MMO Guide",
+        "source_identity": "GuideMMO／Iruminati",
+        "url": "https://guidemmo.com/sanctuaire-corroded-decontamination-facility-en/",
+        "region": "地区未注明",
+        "version": "A2-V013",
+        "source_dates": [
+          "2026-07-09"
+        ],
+        "retrieved_at": "2026-09-30T02:36:12.373607+00:00",
+        "adoption": "中文攻略要点已入库；本地原件"
+      }
+    }
+  },
+  {
+    "id": "6d2ffe8f2fbd",
+    "title": "超越副本：以S级评价为目标",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "6d2ffe8f2fbd",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "6d2ffe8f2fbd",
+        "title": "Transcendence — S rank or nothing",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/transcendence/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-23"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "758bea0c03bf",
+    "title": "每日副本：积分与奖励选择",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "758bea0c03bf",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "758bea0c03bf",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "758bea0c03bf",
+        "title": "Daily Dungeon — points, not loot",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/activities/daily-dungeon/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "922f4ffcaacd",
+    "title": "火之神殿：普通与困难机制要点",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "922f4ffcaacd",
+          "node_id": "A2-V013",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30T02:36:11.441160+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "922f4ffcaacd",
+        "title": "Fire Temple — Dungeon Guide (Normal & Hard) | Aion 2",
+        "source_identity": "Aion2T／Zaser",
+        "url": "https://aion2t.com/guides/fire-temple",
+        "region": "地区未注明",
+        "version": "A2-V013",
+        "source_dates": [
+          "2026-09-23"
+        ],
+        "retrieved_at": "2026-09-30T02:36:11.441160+00:00",
+        "adoption": "中文攻略要点已入库；本地原件"
+      }
+    }
+  },
+  {
+    "id": "a17e00efbd74",
+    "title": "德拉乌伯尼尔困难：跳环与失衡配合",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "a17e00efbd74",
+          "node_id": "A2-V013",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30T02:36:13.116844+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "a17e00efbd74",
+        "title": "Draupnir (Hard) — Dungeon Guide | Aion 2",
+        "source_identity": "Aion2T／Qaser",
+        "url": "https://aion2t.com/guides/draupnir",
+        "region": "地区未注明",
+        "version": "A2-V013",
+        "source_dates": [
+          "2026-03-04"
+        ],
+        "retrieved_at": "2026-09-30T02:36:13.116844+00:00",
+        "adoption": "中文攻略要点已入库；本地原件"
+      }
+    }
+  },
+  {
+    "id": "a7b36d7508b2",
+    "title": "远征副本：探险与征服难度",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "a7b36d7508b2",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "a7b36d7508b2",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "a7b36d7508b2",
+        "title": "Expedition — exploration and conquest",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/activities/expedition/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "cb72d7838f48",
+    "title": "噩梦副本：每周14次与兑换资源",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "cb72d7838f48",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "cb72d7838f48",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "cb72d7838f48",
+        "title": "Nightmare — 14 runs, one currency",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/activities/nightmare/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "cd6c98d10846",
+    "title": "瓦克隆空中岛（巴克隆）困难：寒冷、石化与救人",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "cd6c98d10846",
+          "node_id": "A2-V013",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30T02:36:11.424666+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "cd6c98d10846",
+        "title": "Floating Island of Vakron (Hard) — Dungeon Guide | Aion 2",
+        "source_identity": "Aion2T／Qaser",
+        "url": "https://aion2t.com/guides/vakron-sky-island-hard",
+        "region": "地区未注明",
+        "version": "A2-V013",
+        "source_dates": [
+          "2026-09-23"
+        ],
+        "retrieved_at": "2026-09-30T02:36:11.424666+00:00",
+        "adoption": "中文攻略要点已入库；本地原件"
+      }
+    }
+  },
+  {
+    "id": "dfad56ec1daf",
+    "title": "乌鲁古峡谷：停手、排毒与旋风分摊",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "dfad56ec1daf",
+          "node_id": "A2-V013",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30T02:36:11.469485+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "dfad56ec1daf",
+        "title": "Urugugu Canyon — Dungeon Guide | Aion 2",
+        "source_identity": "Aion2T／Qaser",
+        "url": "https://aion2t.com/guides/urugugu-canyon",
+        "region": "地区未注明",
+        "version": "A2-V013",
+        "source_dates": [
+          "2026-09-23"
+        ],
+        "retrieved_at": "2026-09-30T02:36:11.469485+00:00",
+        "adoption": "中文攻略要点已入库；本地原件"
+      }
+    }
+  },
+  {
+    "id": "e5034b5e0852",
+    "title": "升阶试炼与讨伐：普通难度奖励",
+    "topic": "副本",
+    "body_file": "01_中文正文/副本.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "e5034b5e0852",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "e5034b5e0852",
+        "title": "Ascension Trial and Raid — normal, not easy",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/activities/ascension-trial/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-23"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "48e8e611cd46",
+    "title": "亚特雷亚地图目录",
+    "topic": "地图探索",
+    "body_file": "01_中文正文/地图探索.md",
+    "has_body": false,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "48e8e611cd46",
+          "node_id": "A2-V007",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T15:59:16.737140+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "48e8e611cd46",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T15:59:16.737140+00:00"
+        }
+      ],
+      "notes": [
+        "制图\n\n# 亚特雷亚的地图\n\n探索亚特雷亚的每一个角落——天族、魔族和深渊。寻找隐藏的宝箱、神像材料、传送点和收集节点，按类型筛选，并追踪你已收集的内容。\n\n埃尔特内、莫尔海姆和混沌中层雷沙塔属于韩台服地图。截至2026年9月19日，国际版尚未包含这些地图。\n\n寻找隐藏物品？查看永恒之塔2所有隐藏宝箱位置 →\n\n### 世界\n\n☀ 天族\n\n贝尔特伦 埃尔特内 韩服／台服 普埃塔\n\n☾ 魔族\n\n阿尔特盖德 莫尔海姆 韩服／台服 伊斯夏尔根\n\n✦ 深渊\n\n混沌下层雷沙塔 混沌中层雷沙塔 韩服／台服\n\n显示已完成\n\n### 标记\n\n加载中…\n\n生物\n\n认知族\n\n自然族\n\n野性族\n\n特殊\n\n等级\n\n命名 · 首领\n\n精英\n\n命名、精英以及关键NPC会显示头像。\n\n标记\n\n地点\n\n收集品\n\n采集"
+      ],
+      "source": {
+        "id": "48e8e611cd46",
+        "title": "Maps of Atreia",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/maps",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T15:59:16.737140+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "9830d8f3f487",
+    "title": "隐藏宝箱：终局制作材料来源",
+    "topic": "地图探索",
+    "body_file": "01_中文正文/地图探索.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "9830d8f3f487",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "9830d8f3f487",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "9830d8f3f487",
+        "title": "Cubes — hidden boxes with endgame material",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/activities/cubes/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "9e0fffca6c4f",
+    "title": "隐藏宝箱的位置与开启方法",
+    "topic": "地图探索",
+    "body_file": "01_中文正文/地图探索.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "9e0fffca6c4f",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "9e0fffca6c4f",
+        "title": "AION 2 Hidden Cube Locations",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/maps/hidden-cubes",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "eb8347f5f878",
+    "title": "时空裂隙：每三小时开放",
+    "topic": "地图探索",
+    "body_file": "01_中文正文/地图探索.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "eb8347f5f878",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "eb8347f5f878",
+        "title": "Rifts — every three hours",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/activities/rifts/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-25"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "65b07eb1d570",
+    "title": "新手常见问题与回答",
+    "topic": "常见问题",
+    "body_file": "01_中文正文/常见问题.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "65b07eb1d570",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "65b07eb1d570",
+        "title": "Aion 2 FAQ — the questions people actually ask",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/faq/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-28"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "311a079a1b93",
+    "title": "电脑配置要求与运行设置",
+    "topic": "开服与设置",
+    "body_file": "01_中文正文/开服与设置.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "311a079a1b93",
+          "node_id": "A2-V004",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-08",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "311a079a1b93",
+          "node_id": "A2-V003",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-08",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "311a079a1b93",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-08",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "311a079a1b93",
+        "title": "Aion 2 System Requirements",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/guides/aion-2-system-requirements",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-08"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "3ceeb90a0c68",
+    "title": "上线日期与地区安排",
+    "topic": "开服与设置",
+    "body_file": "01_中文正文/开服与设置.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "3ceeb90a0c68",
+          "node_id": "A2-V004",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-28",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "3ceeb90a0c68",
+          "node_id": "A2-V009",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-28",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "3ceeb90a0c68",
+          "node_id": "A2-V015",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-28",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "3ceeb90a0c68",
+          "node_id": "A2-V003",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-28",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "3ceeb90a0c68",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-28",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "3ceeb90a0c68",
+        "title": "Aion 2 Release Date",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/guides/aion-2-release-date",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-28"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "9cefcd85c92f",
+    "title": "预约与测试安排",
+    "topic": "开服与设置",
+    "body_file": "01_中文正文/开服与设置.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "9cefcd85c92f",
+          "node_id": "A2-V004",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-08-31",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "9cefcd85c92f",
+          "node_id": "A2-V009",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-08-31",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "9cefcd85c92f",
+          "node_id": "A2-V015",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-08-31",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "9cefcd85c92f",
+          "node_id": "A2-V003",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-08-31",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "9cefcd85c92f",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-08-31",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "9cefcd85c92f",
+        "title": "Aion 2 Pre-Registration & Beta",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/guides/aion-2-pre-registration",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-31"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "ab72310a3a6c",
+    "title": "提前进入：服务器、组队与交易市场",
+    "topic": "开服与设置",
+    "body_file": "01_中文正文/开服与设置.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "ab72310a3a6c",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "ab72310a3a6c",
+          "node_id": "A2-V004",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "ab72310a3a6c",
+          "node_id": "A2-V003",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "ab72310a3a6c",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "ab72310a3a6c",
+        "title": "Early Access — servers, groups and the market",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/early-access/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-29"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "e6e4885af96d",
+    "title": "游戏下载、地区与服务器",
+    "topic": "开服与设置",
+    "body_file": "01_中文正文/开服与设置.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "e6e4885af96d",
+          "node_id": "A2-V004",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-28",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "e6e4885af96d",
+          "node_id": "A2-V003",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-28",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "e6e4885af96d",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-28",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "e6e4885af96d",
+          "node_id": "A2-V015",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-28",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "e6e4885af96d",
+        "title": "Aion 2 Download & Servers",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/guides/aion-2-download",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-28"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "global-launch-schedule",
+    "title": "国际版开服时间与服务器",
+    "topic": "开服与设置",
+    "body_file": "01_中文正文/开服与设置.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "global-launch-schedule",
+          "node_id": "A2-V023",
+          "scope_role": "current",
+          "basis": "国际版开服公告及SUN提供的采访笔记",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "global-launch-schedule",
+        "title": "国际版开服时间与服务器",
+        "source_identity": "NCSOFT／9月29日官方服务器公告",
+        "url": "https://steamcommunity.com/games/3393110/announcements/detail/689769594581155931",
+        "region": "国际版",
+        "version": "国际版 · 开服版本",
+        "source_dates": [
+          "2026-09-29"
+        ],
+        "retrieved_at": "2026-09-30",
+        "adoption": "已采用数据"
+      }
+    }
+  },
+  {
+    "id": "1047e715b4f2",
+    "title": "魔族10—25级升级攻略",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "1047e715b4f2",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "1047e715b4f2",
+        "title": "Aion 2 Asmodian Leveling Guide: Levels 10–25",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/leveling/asmodian-levels-10-25",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-06-07",
+          "2026-09-19"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "2f64690ee1b8",
+    "title": "国际版开荒：单角色与多角色的安排",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "2f64690ee1b8",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30T02:36:11.460898+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "2f64690ee1b8",
+        "title": "Aion 2 Global: starting guide — what to do from day one | Aion 2",
+        "source_identity": "Aion2T／Qaser",
+        "url": "https://aion2t.com/guides/start-guide-global",
+        "region": "国际版开服前建议",
+        "version": "A2-V010",
+        "source_dates": [
+          "2026-09-05"
+        ],
+        "retrieved_at": "2026-09-30T02:36:11.460898+00:00",
+        "adoption": "中文攻略要点已入库；本地原件"
+      }
+    }
+  },
+  {
+    "id": "417a8d2226ba",
+    "title": "从1级到2400以上装分的成长指南",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": false,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "417a8d2226ba",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T15:59:17.712102+00:00"
+        }
+      ],
+      "notes": [
+        "永恒之塔2码典\n\n# 你的升阶指南\n\n完整永恒之塔2成长指南：从1级到2400+装备评分。里程碑、系统以及会耗费你数周的常见错误。\n\n路线图 你的检查清单 Discord\n\n发布前\n\n## 预下载已开放\n\n文件现在可以下载，但会加密。解密仅在9月30日解锁，解密所需时间取决于你的设备，而非网络连接。因此，如果你想在首日开始游戏，请今天下载，然后在周二解密，而不是同时开始。这不是重新安装。下载通过Steam或Purple进行；9月30日提前进入需要创始人包。选择服务器的相关内容详见提前进入。\n\n9月30日开启提前进入，10月5日正式上线。\n\nSteam预加载\n\n## 从这里开始\n\n取决于你当前所处的位置。\n\n发布前\n\n### 提前进入机制说明\n\n两波服务器，区域范围内的组队匹配，市场稍后开放。这对你选择服务器意味着什么。\n\n→\n\n刚刚开始\n\n### 你的前48小时\n\n五分钟阅读。之后你就会知道哪些是关键内容——以及需要避免的错误。\n\n→\n\n处于中间阶段\n\n### 完整路径\n\n从1级到2400+装备评分的七个阶段，每个阶段都有明确目标及其潜在陷阱。\n\n→\n\n不确定下一步该做什么\n\n### 你的下一步\n\n勾选你已拥有的内容。页面会告诉你接下来该做什么，以及原因是什么。\n\n→\n\n一个具体的问题\n\n### 简要回答\n\n当内容发布时，是哪个职业、装备评分达到多少——每个信息都链接到解释原因的页面。\n\n→\n\n## 路线图\n\n七个阶段。每个阶段都有明确的目标，以及在那里不应做的事情。\n\n1. 1 等级 1–45 等级 1 到 45\n2. 2 等级 45 → 1600 装备评分 等级 45 到 1600 装备评分\n3. 3 1600–1700 装备评分 1600 到 1700 装备评分\n4. 4 1700–1800 装备评分 1700 到 1800 装备评分\n5. 5 1800–2200 装备评分 1800 到 2200 装备评分\n6. 6 2200–2400 装备评分 2200 到 2400 装备评分\n7. 7 2400+ 装备评分 2400+ 装备评分\n\n## 四个数字解释一切\n\n为什么本指南推荐的内容是这样推荐的。\n\n• 0 + 守护力面板提供的战斗力 那就是区域任务不是副职业内容。\n• 0 每个宝箱的奥德能量 一天约 120，相当于三个宝箱。选择要谨慎。\n• 0 阿尔卡纳卡片提供的战斗力 五个插槽。空插槽等于零。\n• 0 职业符文停止提升的等级 从 +2 开始，符文将永久失效。\n\n## 最昂贵的错误\n\n十人中有七人犯下相同错误：立即感觉良好的决定，而非四周后才见效的决定。\n\n查看全部十项\n\n1. 01 在弱宝箱上消耗奥德能量 成本：数周\n2. 02 将职业符文提升超过 +1 成本：符文本身\n3. 03 在腰带和护符上投资超过唯一品质 成本：数万石头\n\n## 最近发生了什么变化\n\n永恒之塔2是一款持续运营的游戏。这里实际发生的内容变化——不仅仅是时间，而是具体发生了什么。\n\n• 29 月 9 日 扩展提前进入服务——服务器、组队和市场 服务器列表为官方信息：欧洲地区将有八个服务器，每两个服务器一组，每个服务器对应一个阵营。选择希埃尔，你将始终在深渊中遇到伊斯拉佩尔。此外还有时间安排——提前进入服务于 9 月 30 日 13:00 UTC 开放。\n• 18 月 9 日 扩展提前进入服务——服务器、组队和市场 欧洲测试玩家反馈：奥德能量每三小时恢复 15，而非每 48 分钟一次，且装备评分门槛低于台服——瓦克隆从 1400 降至 1800。相关细节在每个受影响页面上以独立模块展示。\n• 6 月 9 日 扩展深渊内容——农场点数、购买配件 四个深渊区域现在都设有进入条件。上层区域是唯一有上限的，中层和下层区域要求最低物品等级——因此上层是进入门槛，而非终点。\n• 6 月 9 日 新增标记：所有内容均来自台服版本。当欧洲区发布有官方数值时，该数值将单独以青色框呈现——例如，队伍规模从四人变为五人，以及台服没有的、经过统计标准化的 10v10 玩家对战模式。\n• 6 月 9 日 新增远征内容——探险与征服 远征窗口新增页面：探险与征服、副本列表，以及克拉尔洞穴作为首个目的地——包含五分钟怒气机制、50%时的摇晃检查和三颗石头。\n• 6 月 9 日 修正深渊内容——农场点数、购买配件 修正：深渊内容不会掉落奖牌。除商店外，另外两个来源是赛季任务和物质变换，你通过将碎片合成白银，再逐步提升至黄金和铂金。\n• 6 月 9 日 新增永恒之塔2玩家对战内容——竞技场、深渊、军阶 新增玩家对战页面：两个无装备平衡的竞技场，每周最多 30 场胜利和 10 次参与奖励，以及深渊军阶决定你可购买装备的原因。\n\n社区\n\n## Discord — 军团与更新\n\n两次访问的理由。这两点都与本页面内容相关。\n\n### 军团典籍\n\n于9月30日上线时，我们将创立军团典籍。若你想参与其中，从现在开始你便已加入——可直接参与远征、瓦克隆以及每周活动，无需每次从头开始寻找。\n\n### 更新与进展\n\n典籍中的每一次变更都会在此处体现，同时附带其背后的问题。此外，还会说明当前正在推进的内容以及哪些内容仍待解决。\n\n加入Discord discord.gg/s5sHUHs\n\n雷维尔斯\n\n## 谁在撰写此内容\n\n我自beta测试阶段便开始玩Aion，当时是在索尔服务器以雷维尔斯的身份参与。这个网站是我个人的热爱项目。\n\n杀星，台服50级\n\n你在这里看到的内容，均来自我本人在台服版本的实际游戏体验，以及致谢页面中列出的参考资料。若这些内容能帮助你更轻松地进入永恒之塔2，那么这个网站就完成了它的使命。\n\n• Discord discord.gg/s5sHUHs\n• Twitch twitch.tv/revyls\n• X @revyls\n\n致谢"
+      ],
+      "source": {
+        "id": "417a8d2226ba",
+        "title": "The guide to your ascension",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T15:59:17.712102+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "41c744e396fb",
+    "title": "开服前48小时行动顺序",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "41c744e396fb",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "41c744e396fb",
+        "title": "Quick Start — your first 48 hours",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/start/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-25"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "428596ceea70",
+    "title": "1—50级升级攻略目录",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": false,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "428596ceea70",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T15:59:17.630101+00:00"
+        }
+      ],
+      "notes": [
+        "升级\n\n# 永恒之塔2升级指南（1–50）\n\n从1级逃离开始，到国际版45级上限以及克拉尔洞穴，加上韩服／台服第一章在埃尔特内和莫尔海姆的50级主线剧情——主线路径、所有藏身点和据点，以及哪些装备需要强化至+10。选择你的阵营。\n\n## 天族\n\n天族升级路径——普埃塔、贝尔特伦以及坎塔斯谷战役直至克拉尔洞穴。\n\n1–10级\n\n### 天族升级1–10级\n\n逃离伊斯塔尔城堡，升至达埃瓦，清除你第一个贝尔特伦藏身点。\n\n阅读指南 →\n\n10–25级\n\n### 天族等级10–25\n\n坎塔斯谷战役、守护力面板、斯提加斯以及提升装备的藏身地。\n\n阅读指南 →\n\n等级25 – 40\n\n### 天族等级25–40\n\n通过中等级藏身地和据点，推动装备评分进入后期内容。\n\n阅读指南 →\n\n等级40 – 45\n\n### 天族40–45及克拉尔洞穴准备\n\n完成战役，达到克拉尔洞穴装备评分门槛，并进入克拉尔洞穴普通模式。\n\n阅读指南 →\n\n等级45 – 50\n\n### 天族45–50：埃尔特内KR/TW\n\n韩服／台服第一章45—50级阶段：进入埃尔特内，从45级推进到新的50级上限。\n\n阅读指南 →\n\n## 魔族\n\n魔族等级路线——从伊斯夏尔根到阿尔特盖德的黑暗战役，直至克拉尔洞穴。\n\n1–10级\n\n### 魔族等级1–10\n\n从伊斯夏尔根经阿尔特盖德的黑暗战役，以及晋升为达瓦的进程。\n\n阅读指南 →\n\n10–25级\n\n### 魔族等级10–25\n\n阿尔特盖德的藏身地、装备与附魔，贯穿中前期阶段。\n\n阅读指南 →\n\n等级25 – 40\n\n### 魔族等级25–40\n\n中等级藏身地和据点，逐步提升装备评分以进入后期内容。\n\n阅读指南 →\n\n等级40 – 45\n\n### 魔族40–45及克拉尔洞穴准备\n\n完成战役，达到克拉尔洞穴装备评分门槛，并清完克拉尔洞穴普通模式。\n\n阅读指南 →\n\n等级45 – 50\n\n### 魔族45–50：莫尔海姆KR/TW\n\n韩服／台服第一章45—50级阶段：前往莫尔海姆，从45级推进到新的50级上限。\n\n阅读指南 →\n\n相关：职业与种族搭配计算器、物品数据库、交互式地图"
+      ],
+      "source": {
+        "id": "428596ceea70",
+        "title": "Aion 2 Leveling Guide (1–50)",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/leveling",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T15:59:17.630101+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "4a7df3fb6ea3",
+    "title": "成长路线与各阶段目标",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "4a7df3fb6ea3",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "4a7df3fb6ea3",
+        "title": "Roadmap",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/roadmap/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "5f546693546b",
+    "title": "天族25—40级升级攻略",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "5f546693546b",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "5f546693546b",
+        "title": "Aion 2 Elyos Leveling Guide: Levels 25–40",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/leveling/elyos-levels-25-40",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-06-07",
+          "2026-09-19"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "646f81b6563a",
+    "title": "魔族45—50级升级：莫尔海姆",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "646f81b6563a",
+          "node_id": "A2-V006",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "646f81b6563a",
+          "node_id": "A2-V007",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "646f81b6563a",
+        "title": "Aion 2 Asmodian Leveling: 45–50 in Morheim",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/leveling/asmodian-levels-45-50-morheim",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-07-01",
+          "2026-09-19"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "6fdf23d31b9b",
+    "title": "台服官方：任务、觉醒与守护者量表",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "6fdf23d31b9b",
+          "node_id": "A2-V021",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2025-11-17",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30T02:43:31.854548+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "6fdf23d31b9b",
+        "title": "台服官方：任务、觉醒与守护者量表",
+        "source_identity": "NCSOFT台服官方指南",
+        "url": "https://tw.ncsoft.com/aion2/guidebook/view?title=任務種類",
+        "region": "台服",
+        "version": "A2-V021",
+        "source_dates": [
+          "2025-11-17"
+        ],
+        "retrieved_at": "2026-09-30T02:43:31.854548+00:00",
+        "adoption": "中文攻略要点已入库；本地可读取副本"
+      }
+    }
+  },
+  {
+    "id": "7ae1b75a311d",
+    "title": "成长行动清单",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "7ae1b75a311d",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "7ae1b75a311d",
+        "title": "Your checklist",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/checklist/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "7f8c6e971a91",
+    "title": "天族1—10级升级攻略",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "7f8c6e971a91",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "7f8c6e971a91",
+        "title": "Aion 2 Elyos Leveling Guide: Levels 1–10",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/leveling/elyos-levels-1-10",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-06-07",
+          "2026-09-19"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "a7e721da05fa",
+    "title": "天族45—50级升级：埃尔特内",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "a7e721da05fa",
+          "node_id": "A2-V006",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "a7e721da05fa",
+          "node_id": "A2-V007",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "a7e721da05fa",
+        "title": "Aion 2 Elyos Leveling: 45–50 in Eltnen",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/leveling/elyos-levels-45-50-eltnen",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-07-01",
+          "2026-09-19"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "ac3c6ed9a665",
+    "title": "天族10—25级升级攻略",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "ac3c6ed9a665",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "ac3c6ed9a665",
+        "title": "Aion 2 Elyos Leveling Guide: Levels 10–25",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/leveling/elyos-levels-10-25",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-06-07",
+          "2026-09-19"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "b746dbd79fce",
+    "title": "魔族40—45级与克拉尔洞穴：700装分",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "b746dbd79fce",
+          "node_id": "A2-V007",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "b746dbd79fce",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "b746dbd79fce",
+        "title": "Aion 2 Asmodian Leveling: 40–45 & Krao Cave (GS 700)",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/leveling/asmodian-levels-40-45-krao",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-06-07",
+          "2026-09-19"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "bahamut-return",
+    "title": "2026新手与回归玩家追赶攻略",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "bahamut-return",
+          "node_id": "A2-V005",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-08-01",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T09:00:16.291046+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "bahamut-return",
+        "title": "巴哈：2026新手回锅攻略",
+        "source_identity": "巴哈：2026新手回锅攻略",
+        "url": "https://forum.gamer.com.tw/C.php?bsn=82913&snA=5939&subbsn=4_5_9_18_19&tnum=2",
+        "region": "TW",
+        "version": null,
+        "source_dates": [
+          "原采集记录；详见本地原文"
+        ],
+        "retrieved_at": "2026-09-29T09:00:16.291046+00:00",
+        "adoption": "复用此前取得的原件；仅作台服参考"
+      }
+    }
+  },
+  {
+    "id": "e84a1b2e3fa9",
+    "title": "魔族1—10级升级攻略",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "e84a1b2e3fa9",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "e84a1b2e3fa9",
+        "title": "Aion 2 Asmodian Leveling Guide: Levels 1–10",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/leveling/asmodian-levels-1-10",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-06-07",
+          "2026-09-19"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "ef72c0c9b528",
+    "title": "天族40—45级与克拉尔洞穴：700装分",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "ef72c0c9b528",
+          "node_id": "A2-V007",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "ef72c0c9b528",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "ef72c0c9b528",
+        "title": "Aion 2 Elyos Leveling: 40–45 & Krao Cave (GS 700)",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/leveling/elyos-levels-40-45-krao",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-06-07",
+          "2026-09-19"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "fdc69f2c0599",
+    "title": "魔族25—40级升级攻略",
+    "topic": "成长路线",
+    "body_file": "01_中文正文/成长路线.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "fdc69f2c0599",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-09-19",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "fdc69f2c0599",
+        "title": "Aion 2 Asmodian Leveling Guide: Levels 25–40",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/leveling/asmodian-levels-25-40",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-06-07",
+          "2026-09-19"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "1919a0594fcb",
+    "title": "树古活动：小游戏与奖励领取时间",
+    "topic": "日常活动",
+    "body_file": "01_中文正文/日常活动.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "1919a0594fcb",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "1919a0594fcb",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "1919a0594fcb",
+        "title": "Shugo — minigames with a collection window",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/activities/shugo/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "1b6e83270f6c",
+    "title": "据点：腰带成长的材料来源",
+    "topic": "日常活动",
+    "body_file": "01_中文正文/日常活动.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "1b6e83270f6c",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "1b6e83270f6c",
+        "title": "Strongholds — the engine for your belt",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/activities/strongholds/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-23"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "e738cfd13dea",
+    "title": "各类活动目录",
+    "topic": "日常活动",
+    "body_file": "01_中文正文/日常活动.md",
+    "has_body": false,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "e738cfd13dea",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [
+        "原表述：每周玩家对抗环境（玩家对抗环境）中最强的永久战斗力来源。每个难度四次运行，货币仅分配给一个地点。",
+        "永恒之塔2码典\n\n# 活动\n\n按节奏分组，而非按收益分组。在多出一小时的情况下，第一个问题是：今天有什么是必须完成的？\n\n## 固定每周时段\n\n限时活动。每周错过的内容将永久消失，不会延期。\n\n每周 · 14次活动\n\n### 每日副本——积分而非奖励物品\n\n三个短暂的副本，一次得分，奖励恰好是你目前短缺的货币：强化石。\n\n每周 · 14次活动\n\n### 远征 — 探索与征服\n\n大多数组队内容所隐藏的入口。两个标签页，一个副本列表，每周配额——在克拉尔洞穴，第一个首领会盯着时间走动。\n\n每周 · 14次活动\n\n### 噩梦 — 14次运行，一种货币\n\n每周玩家对环境玩法中最强的永久战斗力来源。每个难度四次运行，货币仅分配给一个地点。\n\n每周 · 3次活动\n\n### 升阶试炼和讨伐——普通难度，非困难难度\n\n每周进行三次运行，大约有10%的概率获得真正强力的装备。而选择更简单的难度其实是更糟糕的选择。\n\n每周\n\n### 火之神殿 — 武器优先\n\n从2400装备评分开始。最强的终局武器来源，以及投资顺序。\n\n每周 · 7次活动\n\n### 凶猛角兽巢穴 — 七次挑战，1%\n\n获得唯一品质装备的概率为1%。真正的价值在于掉落的保障内容。\n\n## 按计时器运行\n\n按时钟运行。持续时间短，可在登录和退出时及时捕捉到。\n\n每3小时一次\n\n### 裂隙——每3小时一次\n\n从敌方领土获得守护力点数和污名力量碎片。短暂、可预测，且容易被遗忘。\n\n## 每日，但宽松\n\n每日\n\n### 深渊回廊——五分钟，门开启期间\n\n深渊中最富饶的点源是，你的派系必须首先占领的副本，且其窗口会再次关闭。\n\n每日\n\n### 树古——带有收集窗口的迷你游戏\n\n门票可累计最多七天。奖励种类多样，但其中一种始终优先发放。\n\n## 随心所欲\n\n无限制，无压力。会自然发生在过程中。\n\n可重复\n\n### 封印副本——你地图上的问号\n\n守护力晶石、强化宝石和宝箱钥匙。你在升级过程中最不应忽略的副内容。\n\n可重复\n\n### 据点 — 你装备带的引擎\n\n没有据点，你的装备带将停滞，无论你如何投入其他游戏时间。它们在构建阶段为何位居前列。\n\n可重复\n\n### 宝箱——隐藏的箱子，包含终局材料\n\n无论你当前等级如何，都是顶级制作材料。先到先得，之后其他人将无法获得。"
+      ],
+      "source": {
+        "id": "e738cfd13dea",
+        "title": "Activities",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/activities/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "inven-daily",
+    "title": "韩服开服早期：日常与每周活动安排",
+    "topic": "日常活动",
+    "body_file": "01_中文正文/日常活动.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "inven-daily",
+          "node_id": "A2-V018",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30T02:38:22.918006+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "inven-daily",
+        "title": "韩服开服早期：日常与每周活动安排",
+        "source_identity": "Inven／Aliin",
+        "url": "https://www.inven.co.kr/board/aion2/6444/370",
+        "region": "韩服开服早期资料",
+        "version": "A2-V018",
+        "source_dates": [
+          "2025-11-23"
+        ],
+        "retrieved_at": "2026-09-30T02:38:22.918006+00:00",
+        "adoption": "中文攻略要点已入库；本地可读取副本"
+      }
+    }
+  },
+  {
+    "id": "0a3388e74196",
+    "title": "游戏术语解释",
+    "topic": "术语",
+    "body_file": "01_中文正文/术语.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "0a3388e74196",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "0a3388e74196",
+        "title": "Glossary",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/glossary/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "global-interview-20260930",
+    "title": "国际版负责人采访：开服与后续安排",
+    "topic": "版本与运营",
+    "body_file": "01_中文正文/版本与运营.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "global-interview-20260930",
+          "node_id": "A2-V023",
+          "scope_role": "current",
+          "basis": "国际版开服公告及SUN提供的采访笔记",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "global-interview-20260930",
+        "title": "国际版负责人采访：开服与后续安排",
+        "source_identity": "SUN提供的负责人采访笔记；采访日期由SUN确认",
+        "url": "",
+        "region": "国际版",
+        "version": "国际版 · 开服版本",
+        "source_dates": [
+          "2026-09-29"
+        ],
+        "retrieved_at": "2026-09-30",
+        "adoption": "已采用数据；采访为转述；采访日期2026-09-29，具体补丁号未提供"
+      }
+    }
+  },
+  {
+    "id": "2b6bd93e74f6",
+    "title": "玩家对战：竞技场、深渊与军阶",
+    "topic": "玩家对战",
+    "body_file": "01_中文正文/玩家对战.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "2b6bd93e74f6",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "2b6bd93e74f6",
+        "title": "Aion 2 PvP — arenas, abyss, rank",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/pvp/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-06"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "9a05d19eddda",
+    "title": "深渊回廊：开放期间的五分钟挑战",
+    "topic": "玩家对战",
+    "body_file": "01_中文正文/玩家对战.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "9a05d19eddda",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "9a05d19eddda",
+        "title": "Abyss corridor — five minutes, while the door is open",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/activities/abyss-corridor/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-25"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "b976ecb87a88",
+    "title": "深渊：获取积分与优先购买饰品",
+    "topic": "玩家对战",
+    "body_file": "01_中文正文/玩家对战.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "b976ecb87a88",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "b976ecb87a88",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "b976ecb87a88",
+        "title": "Abyss — farm points, buy accessories",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/abyss/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "global-server-pairing",
+    "title": "国际版：阵营服务器配对",
+    "topic": "玩家对战",
+    "body_file": "01_中文正文/玩家对战.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "global-server-pairing",
+          "node_id": "A2-V023",
+          "scope_role": "current",
+          "basis": "国际版开服公告及SUN提供的采访笔记",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "global-server-pairing",
+        "title": "国际版：阵营服务器配对",
+        "source_identity": "NCSOFT／9月29日官方配对公告",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232853",
+        "region": "国际版",
+        "version": "国际版 · 开服版本",
+        "source_dates": [
+          "2026-09-29"
+        ],
+        "retrieved_at": "2026-09-30",
+        "adoption": "已采用数据"
+      }
+    }
+  },
+  {
+    "id": "player-7651804247117275810",
+    "title": "巨哥：永恒之塔2细节分享，玩游戏必须细节，即将再次起飞",
+    "topic": "玩家经验",
+    "body_file": "01_中文正文/玩家经验.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "player-7651804247117275810",
+          "node_id": "A2-V024",
+          "scope_role": "reference",
+          "basis": "transcript.txt",
+          "source_updated_at": "2026-06-16T09:48:28+08:00",
+          "statement_as_of": "2026-06-16",
+          "retrieved_at": "2026-09-29"
+        }
+      ],
+      "notes": [
+        "2026-06-16发布；白装刻印和称号收集经验，未明确地区和赛季编号。",
+        "本地机器转写；具体字幕补读另附依据"
+      ],
+      "source": {
+        "id": "player-7651804247117275810",
+        "title": "巨哥：永恒之塔2细节分享，玩游戏必须细节，即将再次起飞",
+        "source_identity": "巨哥／抖音",
+        "url": "https://www.douyin.com/video/7651804247117275810",
+        "region": "2026-06-16发布；白装刻印和称号收集经验，未明确地区和赛季编号。",
+        "version": "A2-V024",
+        "source_dates": [
+          "2026-06-16"
+        ],
+        "retrieved_at": "2026-09-29",
+        "adoption": "SUN指定材料，按来源场景及原有判断性质使用。"
+      }
+    }
+  },
+  {
+    "id": "player-7662498161163849023",
+    "title": "温蒂的游戏小屋：【永恒之塔2】百分之99锻造成功小技巧分享，锻造实录详解！ 塔二萌新群vx：wendi0457 有什么不懂的都可以问我，群里也都是刚入坑的萌新，给自己群宣传一下！",
+    "topic": "玩家经验",
+    "body_file": "01_中文正文/玩家经验.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "player-7662498161163849023",
+          "node_id": "A2-V029",
+          "scope_role": "reference",
+          "basis": "transcript.txt",
+          "source_updated_at": "2026-07-15T14:25:00+08:00",
+          "statement_as_of": "2026-07-15",
+          "retrieved_at": "2026-09-29"
+        }
+      ],
+      "notes": [
+        "2026-07-15发布；既有服锻造与个人制作经验，具体地区和赛季编号未明。包含个人概率判断；未说明是Steam国际服实测。",
+        "本地机器转写；具体字幕补读另附依据"
+      ],
+      "source": {
+        "id": "player-7662498161163849023",
+        "title": "温蒂的游戏小屋：【永恒之塔2】百分之99锻造成功小技巧分享，锻造实录详解！ 塔二萌新群vx：wendi0457 有什么不懂的都可以问我，群里也都是刚入坑的萌新，给自己群宣传一下！",
+        "source_identity": "温蒂的游戏小屋／抖音",
+        "url": "https://www.douyin.com/video/7662498161163849023",
+        "region": "2026-07-15发布；既有服锻造与个人制作经验，具体地区和赛季编号未明。包含个人概率判断；未说明是Steam国际服实测。",
+        "version": "A2-V029",
+        "source_dates": [
+          "2026-07-15"
+        ],
+        "retrieved_at": "2026-09-29",
+        "adoption": "SUN指定材料，按来源场景及原有判断性质使用。"
+      }
+    }
+  },
+  {
+    "id": "player-7689876326244715817",
+    "title": "凛月月月月月：永恒之塔 2 搬砖避坑 + 收益思路，一次讲清楚.喂饭攻略 ",
+    "topic": "玩家经验",
+    "body_file": "01_中文正文/玩家经验.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "player-7689876326244715817",
+          "node_id": "A2-V027",
+          "scope_role": "reference",
+          "basis": "transcript.txt",
+          "source_updated_at": "2026-09-27T00:07:45+08:00",
+          "statement_as_of": "2026-09-27",
+          "retrieved_at": "2026-09-29"
+        }
+      ],
+      "notes": [
+        "2026-09-27发布；Steam国际服开服前的搬砖建议与收益判断，包含账号购入和转售路线，保留推荐性质。",
+        "本地机器转写；具体字幕补读另附依据"
+      ],
+      "source": {
+        "id": "player-7689876326244715817",
+        "title": "凛月月月月月：永恒之塔 2 搬砖避坑 + 收益思路，一次讲清楚.喂饭攻略 ",
+        "source_identity": "凛月月月月月／抖音",
+        "url": "https://www.douyin.com/video/7689876326244715817",
+        "region": "2026-09-27发布；Steam国际服开服前的搬砖建议与收益判断，包含账号购入和转售路线，保留推荐性质。",
+        "version": "A2-V027",
+        "source_dates": [
+          "2026-09-27"
+        ],
+        "retrieved_at": "2026-09-29",
+        "adoption": "SUN指定材料，按来源场景及原有判断性质使用。"
+      }
+    }
+  },
+  {
+    "id": "player-7690444573507587382",
+    "title": "80后老梅游戏攻略：第一轮十六个角色月入多少《永恒之塔2》入库教程 ",
+    "topic": "玩家经验",
+    "body_file": "01_中文正文/玩家经验.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "player-7690444573507587382",
+          "node_id": "A2-V025",
+          "scope_role": "reference",
+          "basis": "transcript.txt",
+          "source_updated_at": "2026-09-28T12:52:47+08:00",
+          "statement_as_of": "2026-09-28",
+          "retrieved_at": "2026-09-29"
+        }
+      ],
+      "notes": [
+        "2026-09-28发布；回顾2025年首轮开服收益，预测Steam国际服首月收益。历史实收、订单额与预测分别保留。",
+        "本地机器转写；具体字幕补读另附依据"
+      ],
+      "source": {
+        "id": "player-7690444573507587382",
+        "title": "80后老梅游戏攻略：第一轮十六个角色月入多少《永恒之塔2》入库教程 ",
+        "source_identity": "80后老梅游戏攻略／抖音",
+        "url": "https://www.douyin.com/video/7690444573507587382",
+        "region": "2026-09-28发布；回顾2025年首轮开服收益，预测Steam国际服首月收益。历史实收、订单额与预测分别保留。",
+        "version": "A2-V025",
+        "source_dates": [
+          "2026-09-28"
+        ],
+        "retrieved_at": "2026-09-29",
+        "adoption": "SUN指定材料，按来源场景及原有判断性质使用。"
+      }
+    }
+  },
+  {
+    "id": "player-7690449288039599379",
+    "title": "李七夜子：永恒之塔2国际服个人目标，起号流程，收益分析！ ",
+    "topic": "玩家经验",
+    "body_file": "01_中文正文/玩家经验.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "player-7690449288039599379",
+          "node_id": "A2-V030",
+          "scope_role": "reference",
+          "basis": "transcript.txt",
+          "source_updated_at": "2026-09-28T13:11:05+08:00",
+          "statement_as_of": "2026-09-28",
+          "retrieved_at": "2026-09-29"
+        }
+      ],
+      "notes": [
+        "2026-09-28发布；国际服开服前的个人规划，目标为欧服、两组账号共16个角色。历史收益来自此前游玩的服务器，口播未辨清该服名称；不把规划写成国际服实测。",
+        "本地机器转写；具体字幕补读另附依据"
+      ],
+      "source": {
+        "id": "player-7690449288039599379",
+        "title": "李七夜子：永恒之塔2国际服个人目标，起号流程，收益分析！ ",
+        "source_identity": "李七夜子／抖音",
+        "url": "https://www.douyin.com/video/7690449288039599379",
+        "region": "2026-09-28发布；国际服开服前的个人规划，目标为欧服、两组账号共16个角色。历史收益来自此前游玩的服务器，口播未辨清该服名称；不把规划写成国际服实测。",
+        "version": "A2-V030",
+        "source_dates": [
+          "2026-09-28"
+        ],
+        "retrieved_at": "2026-09-29",
+        "adoption": "SUN指定材料，按来源场景及原有判断性质使用。"
+      }
+    }
+  },
+  {
+    "id": "player-7690523694287899947",
+    "title": "南风 游戏分享：搬砖倒计时，永恒之塔2国际服最全礼包购买指南，你准备好了吗 ",
+    "topic": "玩家经验",
+    "body_file": "01_中文正文/玩家经验.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "player-7690523694287899947",
+          "node_id": "A2-V028",
+          "scope_role": "reference",
+          "basis": "transcript.txt",
+          "source_updated_at": "2026-09-28T17:59:48+08:00",
+          "statement_as_of": "2026-09-28",
+          "retrieved_at": "2026-09-29"
+        }
+      ],
+      "notes": [
+        "2026-09-28发布；Steam国际服开服前礼包购买建议。价格为发布时口播美元价格，礼包内容与购买方式按该来源保存。",
+        "本地机器转写；具体字幕补读另附依据"
+      ],
+      "source": {
+        "id": "player-7690523694287899947",
+        "title": "南风 游戏分享：搬砖倒计时，永恒之塔2国际服最全礼包购买指南，你准备好了吗 ",
+        "source_identity": "南风 游戏分享／抖音",
+        "url": "https://www.douyin.com/video/7690523694287899947",
+        "region": "2026-09-28发布；Steam国际服开服前礼包购买建议。价格为发布时口播美元价格，礼包内容与购买方式按该来源保存。",
+        "version": "A2-V028",
+        "source_dates": [
+          "2026-09-28"
+        ],
+        "retrieved_at": "2026-09-29",
+        "adoption": "SUN指定材料，按来源场景及原有判断性质使用。"
+      }
+    }
+  },
+  {
+    "id": "player-7690833260200430884",
+    "title": "里奥poe：永恒之塔2steam服开测！9月30提前进区/入库教程 ",
+    "topic": "玩家经验",
+    "body_file": "01_中文正文/玩家经验.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "player-7690833260200430884",
+          "node_id": "A2-V026",
+          "scope_role": "reference",
+          "basis": "transcript.txt",
+          "source_updated_at": "2026-09-29T14:01:05+08:00",
+          "statement_as_of": "2026-09-29",
+          "retrieved_at": "2026-09-29"
+        }
+      ],
+      "notes": [
+        "2026-09-29发布；Steam国际服入库与提前进入的演示建议，包含加速器推广；个人游玩经历来自台服刚上线时。",
+        "本地机器转写；具体字幕补读另附依据"
+      ],
+      "source": {
+        "id": "player-7690833260200430884",
+        "title": "里奥poe：永恒之塔2steam服开测！9月30提前进区/入库教程 ",
+        "source_identity": "里奥poe／抖音",
+        "url": "https://www.douyin.com/video/7690833260200430884",
+        "region": "2026-09-29发布；Steam国际服入库与提前进入的演示建议，包含加速器推广；个人游玩经历来自台服刚上线时。",
+        "version": "A2-V026",
+        "source_dates": [
+          "2026-09-29"
+        ],
+        "retrieved_at": "2026-09-29",
+        "adoption": "SUN指定材料，按来源场景及原有判断性质使用。"
+      }
+    }
+  },
+  {
+    "id": "18829562c6ca",
+    "title": "精灵星：定位、技能与常见问题",
+    "topic": "职业选择",
+    "body_file": "01_中文正文/职业选择.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "18829562c6ca",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "18829562c6ca",
+          "node_id": "A2-V017",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "18829562c6ca",
+          "node_id": "A2-V007",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "18829562c6ca",
+        "title": "AION 2 Spiritmaster",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/classes/spiritmaster",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "2427da149cc7",
+    "title": "杀星：定位、技能与常见问题",
+    "topic": "职业选择",
+    "body_file": "01_中文正文/职业选择.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "2427da149cc7",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "2427da149cc7",
+          "node_id": "A2-V017",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "2427da149cc7",
+          "node_id": "A2-V007",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "2427da149cc7",
+        "title": "AION 2 Assassin",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/classes/assassin",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "575e68ca286e",
+    "title": "守护星：定位、技能与常见问题",
+    "topic": "职业选择",
+    "body_file": "01_中文正文/职业选择.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "575e68ca286e",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "575e68ca286e",
+          "node_id": "A2-V017",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "575e68ca286e",
+          "node_id": "A2-V007",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "575e68ca286e",
+        "title": "AION 2 Templar",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/classes/templar",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "6c06f9548f9b",
+    "title": "护法星：定位、技能与常见问题",
+    "topic": "职业选择",
+    "body_file": "01_中文正文/职业选择.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "6c06f9548f9b",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "6c06f9548f9b",
+          "node_id": "A2-V017",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "6c06f9548f9b",
+          "node_id": "A2-V007",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "6c06f9548f9b",
+        "title": "AION 2 Chanter",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/classes/chanter",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "a44fc74d08e4",
+    "title": "国际版官方职业与世界介绍",
+    "topic": "职业选择",
+    "body_file": "01_中文正文/职业选择.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "a44fc74d08e4",
+          "node_id": "A2-V011",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T15:59:17.177332+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "a44fc74d08e4",
+        "title": "AION2｜The official global teaser site",
+        "source_identity": "NCSOFT Japan official Global site",
+        "url": "https://aion2.ncsoft.jp/en/teaser",
+        "region": "Global官方宣传资料",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T15:59:17.177332+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "ae5668fad867",
+    "title": "拳星：台韩职业参考",
+    "topic": "职业选择",
+    "body_file": "01_中文正文/职业选择.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "ae5668fad867",
+          "node_id": "A2-V006",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "ae5668fad867",
+          "node_id": "A2-V017",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "ae5668fad867",
+          "node_id": "A2-V007",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "ae5668fad867",
+        "title": "AION 2 Brawler",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/classes/brawler",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "d6c1445c16cb",
+    "title": "魔道星：定位、技能与常见问题",
+    "topic": "职业选择",
+    "body_file": "01_中文正文/职业选择.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "d6c1445c16cb",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "d6c1445c16cb",
+          "node_id": "A2-V017",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "d6c1445c16cb",
+          "node_id": "A2-V007",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "d6c1445c16cb",
+        "title": "AION 2 Sorcerer",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/classes/sorcerer",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "dc2c90611bba",
+    "title": "弓星：定位、技能与常见问题",
+    "topic": "职业选择",
+    "body_file": "01_中文正文/职业选择.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "dc2c90611bba",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "dc2c90611bba",
+          "node_id": "A2-V017",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "dc2c90611bba",
+          "node_id": "A2-V007",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "dc2c90611bba",
+        "title": "AION 2 Ranger",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/classes/ranger",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "dd3135d69045",
+    "title": "剑星：定位、技能与常见问题",
+    "topic": "职业选择",
+    "body_file": "01_中文正文/职业选择.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "dd3135d69045",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "dd3135d69045",
+          "node_id": "A2-V017",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "dd3135d69045",
+          "node_id": "A2-V007",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "dd3135d69045",
+        "title": "AION 2 Gladiator",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/classes/gladiator",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "f09f917ea1b0",
+    "title": "治愈星：定位、技能与常见问题",
+    "topic": "职业选择",
+    "body_file": "01_中文正文/职业选择.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "f09f917ea1b0",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "f09f917ea1b0",
+          "node_id": "A2-V017",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "f09f917ea1b0",
+          "node_id": "A2-V007",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "f09f917ea1b0",
+        "title": "AION 2 Cleric",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/classes/cleric",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "ff33d5a3f63b",
+    "title": "职业与种族总览",
+    "topic": "职业选择",
+    "body_file": "01_中文正文/职业选择.md",
+    "has_body": false,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "ff33d5a3f63b",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T15:59:16.736140+00:00"
+        }
+      ],
+      "notes": [
+        "职业与种族\n\n# 永恒之塔2 职业与种族\n\n永恒之塔2在国际版上线时拥有两个阵营和八个职业（韩服／台服为九个职业）。每个职业均可由两个阵营玩家操作，每个角色初始都是一名冒险者，之后再进行职业专精。\n\n## 两个阵营\n\n天族\n\n光明\n\n永恒之塔2可玩的两个阵营之一。\n\n魔族\n\n黑暗\n\n永恒之塔2可玩的两个阵营之一。\n\n## 职业\n\n每个职业都有一把主武器。点击一个职业即可查看其完整指南——角色定位、技能和装备。\n\n### 守护星\n\n坦克\n\n长剑\n\n查看职业指南 →\n\n### 剑星\n\n坦克 伤害输出\n\n巨剑\n\n查看职业指南 →\n\n### 杀星\n\n伤害输出\n\n匕首\n\n查看职业指南 →\n\n### 弓星\n\n伤害输出\n\n弓\n\n查看职业指南 →\n\n### 魔道星\n\n伤害输出\n\n法书\n\n查看职业指南 →\n\n### 精灵星\n\n伤害输出\n\n宝珠\n\n查看职业指南 →\n\n### 治愈星\n\n治疗者\n\n权杖\n\n查看职业指南 →\n\n### 护法星\n\n治疗者 伤害输出\n\n法杖\n\n查看职业指南 →\n\n### 拳星\n\n韩服/台服\n\n伤害输出\n\n拳星\n\n查看职业指南 →\n\n## 哪个职业的实际伤害最高？\n\n参考AionFlex上的实时战斗日志，对比永恒之塔2中每个职业的真实伤害输出，AionFlex是我们的免费伤害计量器和服务器排行榜。\n\n查看职业伤害排行榜 ↗\n\n## 永恒之塔2职业与种族常见问题\n\n### 永恒之塔2中有多少个职业？\n\n全球版首发有八个职业：守护星、剑星、杀星、弓星、魔道星、精灵星、治愈星和护法星。韩服/台服也拥有第九个职业拳星，于第一章更新中加入；全球版客户端自2026-09-19起技能名称已隐藏。每个角色初始为冒险者，之后专精于一个职业。\n\n### 永恒之塔2职业是否绑定阵营或性别？\n\n不绑定。每个职业均可由天族与魔族双方阵营以及男女两性玩家游玩。\n\n### 永恒之塔2的种族/阵营是什么？\n\n可玩的阵营有两个：天族（光明）与魔族（黑暗）\n\n### 每个职业使用什么武器？\n\n每个职业都有一个主武器类型：守护星——长剑，剑星——巨剑，杀星——匕首，弓星——弓，魔道星——法书，精灵星——宝珠，治愈星——权杖，护法星——法杖（拳星——护腕，韩服/台服）\n\n想查找装备？可按职业浏览永恒之塔2物品数据库。"
+      ],
+      "source": {
+        "id": "ff33d5a3f63b",
+        "title": "AION 2 Classes & Races",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/classes",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T15:59:16.736140+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "global-class-roster",
+    "title": "国际版八个职业",
+    "topic": "职业选择",
+    "body_file": "01_中文正文/职业选择.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "global-class-roster",
+          "node_id": "A2-V023",
+          "scope_role": "current",
+          "basis": "国际版开服公告及SUN提供的采访笔记",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "global-class-roster",
+        "title": "国际版八个职业",
+        "source_identity": "NCSOFT国际版官方介绍",
+        "url": "https://aion2.ncsoft.jp/en/teaser",
+        "region": "国际版",
+        "version": "国际版 · 开服版本",
+        "source_dates": [],
+        "retrieved_at": "2026-09-30",
+        "adoption": "已采用数据"
+      }
+    }
+  },
+  {
+    "id": "11ee9a6b0a43",
+    "title": "腰带：长期装备的进阶路线",
+    "topic": "装备养成",
+    "body_file": "01_中文正文/装备养成.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "11ee9a6b0a43",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "11ee9a6b0a43",
+        "title": "Belt — your longest-serving piece of gear",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/belt/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-23"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "1af16257cd2a",
+    "title": "职业符文：强化到+1后停止",
+    "topic": "装备养成",
+    "body_file": "01_中文正文/装备养成.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "1af16257cd2a",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "1af16257cd2a",
+        "title": "Class Runes — stop at +1",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/class-runes/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-23"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "274c58322cae",
+    "title": "阿尔卡纳：五个卡槽与战力提升",
+    "topic": "装备养成",
+    "body_file": "01_中文正文/装备养成.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "274c58322cae",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "274c58322cae",
+        "title": "Arcana — five cards, 320 combat power",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/arcana/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-23"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "27eaee412a89",
+    "title": "启示护符：140根羽毛的资源投入",
+    "topic": "装备养成",
+    "body_file": "01_中文正文/装备养成.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "27eaee412a89",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "27eaee412a89",
+        "title": "Revelation Amulet — 140 feathers well spent",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/revelation-amulet/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-23"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "3f78f27a69b0",
+    "title": "神石：武器效果与触发限制",
+    "topic": "装备养成",
+    "body_file": "01_中文正文/装备养成.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "3f78f27a69b0",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "3f78f27a69b0",
+        "title": "Theostone — one effect, one weapon",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/theostone/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-06"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "878883854afc",
+    "title": "装备强化：均衡投入各部位",
+    "topic": "装备养成",
+    "body_file": "01_中文正文/装备养成.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "878883854afc",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "878883854afc",
+        "title": "Enhancement — spread, do not stack",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/enhancement/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-23"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "d7af6cfc9d30",
+    "title": "魔石：同时重置装备上的镶嵌槽",
+    "topic": "装备养成",
+    "body_file": "01_中文正文/装备养成.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "d7af6cfc9d30",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "d7af6cfc9d30",
+        "title": "Manastone — every socket at once",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/manastone/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-24"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "f4bc51feeee1",
+    "title": "灵魂刻印：装备的第二组属性",
+    "topic": "装备养成",
+    "body_file": "01_中文正文/装备养成.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "f4bc51feeee1",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "f4bc51feeee1",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "f4bc51feeee1",
+        "title": "Soul Binding — the second stat block",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/soul-binding/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "inven-soul",
+    "title": "韩服第二赛季：各部位灵魂刻印优先级",
+    "topic": "装备养成",
+    "body_file": "01_中文正文/装备养成.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "inven-soul",
+          "node_id": "A2-V019",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30T02:38:22.938282+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "inven-soul",
+        "title": "韩服第二赛季：各部位灵魂刻印优先级",
+        "source_identity": "Inven／Nirr",
+        "url": "https://www.inven.co.kr/board/aion2/6444/1205",
+        "region": "韩服第二赛季",
+        "version": "A2-V019",
+        "source_dates": [
+          "2026-01-22"
+        ],
+        "retrieved_at": "2026-09-30T02:38:22.938282+00:00",
+        "adoption": "中文攻略要点已入库；本地可读取副本"
+      }
+    }
+  },
+  {
+    "id": "tw-official",
+    "title": "台服官方指南：综合强化",
+    "topic": "装备养成",
+    "body_file": "01_中文正文/装备养成.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "tw-official",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T09:00:13.668926+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "tw-official",
+        "title": "台服官方指南",
+        "source_identity": "台服官方指南",
+        "url": "https://tw.ncsoft.com/aion2/guidebook/view?title=綜合強化",
+        "region": "TW",
+        "version": null,
+        "source_dates": [
+          "原采集记录；详见本地原文"
+        ],
+        "retrieved_at": "2026-09-29T09:00:13.668926+00:00",
+        "adoption": "复用此前取得的原件；仅作台服参考"
+      }
+    }
+  },
+  {
+    "id": "4e76be55ca38",
+    "title": "守护力面板与区域任务",
+    "topic": "角色养成",
+    "body_file": "01_中文正文/角色养成.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "4e76be55ca38",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "4e76be55ca38",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "4e76be55ca38",
+        "title": "Daevanion Boards — why regional quests are not side content",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/daevanion-boards/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "54d65c0f80e4",
+    "title": "万神殿：通过收藏获得属性",
+    "topic": "角色养成",
+    "body_file": "01_中文正文/角色养成.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "54d65c0f80e4",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "54d65c0f80e4",
+        "title": "Pantheon — free stats nobody pays attention to",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/pantheon/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-23"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "7f33aea59b07",
+    "title": "神像：用羽毛提升永久属性",
+    "topic": "角色养成",
+    "body_file": "01_中文正文/角色养成.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "7f33aea59b07",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "7f33aea59b07",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "7f33aea59b07",
+        "title": "Monolith — turning feathers into permanent power",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/monolith/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "cf2119b253c3",
+    "title": "角色与装备养成系统目录",
+    "topic": "角色养成",
+    "body_file": "01_中文正文/角色养成.md",
+    "has_body": false,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "cf2119b253c3",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [
+        "永恒之塔2码典\n\n# 系统\n\n构成你进度系统的要素。按本游戏中最重要的问题排序：四周后我是否还能保留这些进度？\n\n## 永久成长\n\n无论你穿戴什么装备都始终保留。优先投资于此。\n\n### 神像 — 将羽毛转化为永久性力量\n\n神像为你提供无法被剥夺的技能点。它的重要性早于任何装备，而羽毛的来源也在此处。\n\n### 守护力面板——为何区域任务并非副内容\n\n约500点战斗力永久附加在角色上。这就是不跳过区域任务的原因。\n\n### 腰带——你使用时间最长的装备部件\n\n基础、稀有、唯一：通过据点的升级路径。这也是你应该有意识停止投入、不再继续升级的节点。\n\n停止于：唯一品质——达到该等级后每级拥有数万颗强化石\n\n### 启示护符 —— 140根羽毛物有所值\n\n武器伤害、穿透、防御、生命值。除腰带外，早期最值得投入的项目——同样遵循相同的停止规则。\n\n停止于：唯一品质——在该阶段之后优先为其他系统提供资源\n\n### 万神殿——没人关注的免费属性\n\n雕像、巨人和框架在背景中缓慢生成。绿色和蓝色部件也会逐渐累积。\n\n### 阿尔卡纳——五张卡片，320战斗力\n\n绿色40，蓝色60，唯一品质80。为什么要在获得全部五张卡片后再追求品质。\n\n## 资源与通往它们的路径\n\n被消耗或替换，但没有这些你永远无法达到后续阶段\n\n### 奥德能量——限制你晚间收益的资源\n\n没有奥德能量，副本将无法为你带来任何收益。你能获得多少、如何使用，以及为何这是每日规划的第一问。\n\n规则：一个共享池——此处投入的内容在超越副本中将缺失\n\n### 强化——分散，不叠加\n\n为何四件+1比一件+5更优，以及永恒之塔2的强化率异常慷慨的原因。\n\n规则：广泛分配，而非集中投入单一项目\n\n### 魔石——每个插槽同时使用\n\n刻印重铸会重铸每个插槽，而非单个插槽。为何自动刻印在窗口中是成本最高的按钮，当目标设定过于狭窄时？\n\n规则：一次尝试重铸每个插槽——目标越狭窄，成本越高\n\n### 灵魂刻印——第二个属性区块\n\n每件装备都携带一组第二属性，只有在绑定后才会增长。并且有一个按钮，其成本是普通按钮的十倍。\n\n规则：仅对保留的装备生效——刻印作用于装备本身\n\n### 神石——一个效果，一把武器\n\n武器槽位中的触发石，它能提供什么效果，为何只能有一个生效，以及为何你不会在下一周更换武器时将其刻印到新武器上。\n\n规则：每把武器仅一个效果——相同石料不会叠加\n\n### 继承制作——升级而非重新开始\n\n颠覆你对待深渊与巴鲁尔装备方式的规则：强化、增幅和灵魂刻印会传承到下一套装备。以及该步骤实际所需的成本。\n\n规则：必定成功，结果是灵魂刻印绑定于制作者身上\n\n### 职业符文——最多+1\n\n两个优质符文约等于80物品等级。因此你仍不应将其提升到+1以上。\n\n停止于：+1 — 从+2开始，若尝试失败则会破裂\n\n### 深渊 — 种植积分，购买配件\n\n五分钟内获得5,000到10,000深渊点数。而钱应该放在配件，而不是武器中。\n\n停止于：物品等级4300 — 超过该等级将被移除并扣除一小时\n\n### 超越副本 — S级或一无所获\n\n限时评级副本。从大约1650装备评分开始，这是你迈向下一阶段的关键，也是你获得阿尔卡纳卡片的来源。\n\n### 瓦克隆空中岛 — 大跃升\n\n从1800到2200装备评分。游戏中最强大的加速器——也是奥德能量最值钱的地方。\n\n### 永恒之塔2 玩家对战 — 竞技场、深渊、排位\n\n两个没有装备平衡的竞技场，一个有天花板的开放区域，以及一个决定你能购买何种装备的排位系统。这三个部分如何相互关联，以及应该优先考虑什么。\n\n停止于：开放深渊中物品等级4300 — 超过该等级将被移除并扣除一小时"
+      ],
+      "source": {
+        "id": "cf2119b253c3",
+        "title": "Systems",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "inven-damage",
+    "title": "韩台玩家伤害测试：暴击、强击与增幅",
+    "topic": "角色养成",
+    "body_file": "01_中文正文/角色养成.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "inven-damage",
+          "node_id": "A2-V020",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30T02:38:22.931161+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "inven-damage",
+        "title": "韩台玩家伤害测试：暴击、强击与增幅",
+        "source_identity": "Inven／Rokah；汇总台服玩家测试并补充实验",
+        "url": "https://www.inven.co.kr/board/aion2/6444/909",
+        "region": "韩台服2025年12月玩家测试",
+        "version": "A2-V020",
+        "source_dates": [
+          "2025-12-24"
+        ],
+        "retrieved_at": "2026-09-30T02:38:22.931161+00:00",
+        "adoption": "中文攻略要点已入库；本地可读取副本"
+      }
+    }
+  },
+  {
+    "id": "01a8908409b6",
+    "title": "官方壁纸下载介绍",
+    "topic": "资料导航",
+    "body_file": "02_来源与版本/资料索引.json",
+    "has_body": false,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "01a8908409b6",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-06-06",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [
+        "准备就绪\n\n# 永恒之塔2官方壁纸\n\nNCSOFT在游戏国际版预热页面提供免费的永恒之塔2官方壁纸——与全球宣传活动相同的虚幻引擎5主视觉图。以下是下载位置以及在Windows、macOS、iPhone和Android设备上设置的方法。\n\n## 永恒之塔2的壁纸是官方的吗？\n\n是的。NCSOFT在游戏国际版预热网站（永恒之塔2.plaync.com）的媒体/壁纸栏目中发布免费的永恒之塔2官方壁纸。这些壁纸使用与全球宣传活动相同的虚幻引擎5主视觉图——天族与魔族阵营以及亚特雷亚的空中战场场景——因此分辨率高，可安全用作电脑或手机背景。由于直接来自发行商，这是最纯净的来源：无水印，无可疑第三方下载网站。\n\n永恒之塔2 Hub是一个非官方粉丝网站，因此我们不会在此重新托管NCSOFT的美术作品。相反，本指南会引导您前往官方页面获取原图，并展示您在获取后如何设置它们。\n\n## 在哪里下载\n\n前往永恒之塔2的官方国际版预热页面，打开其壁纸栏目，然后保存您想要的图片。下方的网格直接链接到该官方来源。\n\n天族主视觉图 天选之子 获取官方页面 ↗ 魔族主视觉图 痛苦锻造 获取官方页面 ↗ 亚特雷亚与深渊 天空即战场 获取官方页面 ↗\n\n美术作品 © NCSOFT。上方的图块是官方永恒之塔2网站的主题链接，不是壁纸的复制版本。\n\n## 如何下载（分步说明）\n\n在桌面浏览器上，整个过程不到一分钟：\n\n1. 打开永恒之塔2的官方预热页面，滚动至壁纸栏目（如上链接所示）。\n2. 点击您想要的壁纸以全尺寸查看，或使用页面提供的任何下载按钮。\n3. 如果以全图形式打开，右键点击并选择“保存图片为…”（在手机上，长按图片后选择“保存”/“下载”）。\n4. 选择提供的最高分辨率，以确保在屏幕上显示清晰。\n\n## 设置为壁纸 — Windows与macOS\n\nWindows 10/11：右键点击已保存的图片，选择“设置为桌面背景”。如需更多控制，打开设置 → 个性化 → 背景，将“个性化背景”设为“图片”，浏览至文件，选择“填充”以覆盖屏幕而不拉伸。\n\nmacOS：右键点击图片并选择“设置桌面图片”，或打开系统设置 → 背景，点击“添加照片”，然后选择文件。选择“填充屏幕”以获得最佳适配效果。\n\n## 设置为壁纸 — iPhone与Android\n\niPhone（iOS）：将图片保存至相册，打开设置 → 背景 → 添加新背景，从相册中选择图片，然后设置为锁屏、主屏幕或两者。\n\nAndroid：在相册/图片应用中打开已保存的图片，点击菜单（⋮），选择“设置为壁纸”，然后选择主屏幕、锁屏或两者。具体措辞会因制造商略有不同。\n\n提示：手机屏幕为竖屏，因此竖屏桌面壁纸可能需要裁剪。如果官方页面提供移动端/竖屏版本，请优先获取该版本以获得最佳适配效果。\n\n## 官方来源\n\n• 永恒之塔2官方预告页 — 背景图专区 (NCSOFT) ↗\n• 永恒之塔2国际版官网 (plaync) ↗\n• 永恒之塔2在Steam上的官方商店页面 ↗\n\n## 常见问题\n\n### 永恒之塔2的背景图是免费的吗？\n\n是的。NCSOFT官网的永恒之塔2国际版预告页上的官方背景图可以免费下载并用作个人电脑或手机桌面背景。\n\n### 在哪里可以下载官方的永恒之塔2背景图？\n\n从永恒之塔2国际版官网预告页的背景图专区下载，网址为 永恒之塔2.plaync.com/en-us/conts/teaser。这是发行商的官方站点，因此美术作品为原创且无水印。请避免使用第三方网站，这些网站会重新上传相同图片并附带广告或追踪代码。\n\n### 我可以把永恒之塔2的背景图用在手机上吗？\n\n可以。将图片保存到手机后，从设置中设置为壁纸（iPhone：设置 → 背景 → 添加新壁纸；Android：打开图片，菜单 → 设置为壁纸）。如果提供竖版/手机版本，其适配手机屏幕效果会优于桌面版本。\n\n### 有4K分辨率的永恒之塔2背景图吗？\n\n官方主视觉图具有高分辨率。请始终选择官网提供的最大尺寸，以确保在高DPI和4K显示器上保持清晰。官网提供的分辨率可能会随着NCSOFT更新页面而发生变化。\n\n### 永恒之塔2 Hub能直接托管背景图吗？\n\n不能。永恒之塔2 Hub是非官方玩家站点，背景图属于NCSOFT的版权美术作品。我们仅提供官方来源链接，以确保您始终获取真实、最新的文件。\n\n## 继续探索\n\n观看发布预告片 永恒之塔2发布时间 职业与种族 互动地图 预注册与内测\n\n← 所有永恒之塔2指南"
+      ],
+      "source": {
+        "id": "01a8908409b6",
+        "title": "Official Aion 2 Wallpapers",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/guides/aion-2-wallpapers",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-06-06"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "7f5521cc8364",
+    "title": "玩家对战页面跳转",
+    "topic": "资料导航",
+    "body_file": "02_来源与版本/资料索引.json",
+    "has_body": false,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "7f5521cc8364",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [
+        "将 /en/systems/玩家对战/ 重定向到 /en/玩家对战/"
+      ],
+      "source": {
+        "id": "7f5521cc8364",
+        "title": "Redirecting to: /en/pvp/",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/pvp/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "c90d939cd8b3",
+    "title": "攻略目录",
+    "topic": "资料导航",
+    "body_file": "02_来源与版本/资料索引.json",
+    "has_body": false,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "c90d939cd8b3",
+          "node_id": "A2-V004",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T15:59:17.387012+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "c90d939cd8b3",
+          "node_id": "A2-V003",
+          "scope_role": "announcement",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T15:59:17.387012+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "c90d939cd8b3",
+          "node_id": "A2-V010",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T15:59:17.387012+00:00"
+        }
+      ],
+      "notes": [
+        "指南\n\n# 永恒之塔2 指南\n\n准备迎接永恒之塔2国际版PC与Steam版本全球上线？从这里开始——西方玩家正在搜索的答案，随着NCSOFT确认细节而持续更新。\n\n## 永恒之塔2发布日期\n\n2026年10月5日 — 提前进入从9月30日开始，完整的全球PC与Steam上线时间线。\n\n阅读指南 →\n\n## 上线预告片\n\n夏季游戏节官方预告片——以及它宣布的上线时间窗口（日期后来调整为2026年10月5日）。\n\n阅读指南 →\n\n## 永恒之塔2是免费游玩吗？\n\n全球版本的盈利模式如何运作——以及‘付费赢’的问题。\n\n阅读指南 →\n\n## 永恒之塔2官方壁纸\n\n在哪里获取官方永恒之塔2壁纸，以及如何在PC和手机上设置。\n\n阅读指南 →\n\n## 永恒之塔2的PC系统要求\n\nUnreal Engine 5版本发布的最低与推荐PC配置。\n\n阅读指南 →\n\n## 预注册与内测\n\n如何进行预注册、在Steam上添加愿望单，以及内测/提前进入状态。\n\n阅读指南 →\n\n## 下载与服务器\n\n在哪里下载永恒之塔2，Steam页面，以及北美/南美/欧洲/日本服务器。\n\n阅读指南 →\n\n相关：职业与种族 互动地图 物品数据库 所有工具"
+      ],
+      "source": {
+        "id": "c90d939cd8b3",
+        "title": "Aion 2 Guides",
+        "source_identity": "AION2 Hub",
+        "url": "https://aion2hub.com/guides",
+        "region": "Global及KR/TW，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T15:59:17.387012+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "dvg",
+    "title": "永恒之塔2小册子首页",
+    "topic": "资料导航",
+    "body_file": "02_来源与版本/资料索引.json",
+    "has_body": false,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "dvg",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T09:00:13.669473+00:00"
+        }
+      ],
+      "notes": [
+        "你的亚特雷亚冒险指南\n\n# 永恒之塔2小册子\n\n职业、装备、技能与地图。你的下一段冒险，从这里开始。\n\n点击搜索，或按 Ctrl + K 快速查找游戏资料\n\n## 职业配置\n\n选择你的职业，找到属于你的战斗方式。\n\n角色构建器\n\n### 剑星\n\n近战输出\n\n查看构建\n\n### 守护星\n\n防御与保护\n\n查看构建\n\n### 杀星\n\n爆发与机动\n\n查看构建\n\n### 弓星\n\n远程物理\n\n查看构建\n\n### 魔道星\n\n元素法术\n\n查看构建\n\n### 精灵星\n\n召唤与控制\n\n查看构建\n\n### 治愈星\n\n恢复与支援\n\n查看构建\n\n### 护法星\n\n增益与近战\n\n查看构建\n\n### 拳星\n\n连击与压制\n\n查看构建\n\n## 装备速览\n\n发现你的下一件装备，查看属性与获取方式。\n\n全部物品\n\n闪耀的创龙王巨剑 闪耀的灭龙王巨剑 闪耀的创龙王长剑 闪耀的灭龙王长剑 闪耀的创龙王短剑 闪耀的灭龙王短剑 闪耀的创龙王弓 闪耀的灭龙王弓 闪耀的创龙王魔法书 闪耀的灭龙王魔法书 闪耀的创龙王法珠 闪耀的灭龙王法珠 闪耀的创龙王钉锤 闪耀的灭龙王钉锤 闪耀的创龙王法杖 闪耀的灭龙王法杖 闪耀的创龙王拳甲 闪耀的灭龙王拳甲 闪耀的创龙王臂甲 闪耀的灭龙王臂甲 闪耀的创龙王胸甲 闪耀的灭龙王胸甲 闪耀的创龙王腿甲 闪耀的灭龙王腿甲 闪耀的创龙王头盔 闪耀的灭龙王头盔 闪耀的创龙王肩甲 闪耀的灭龙王肩甲\n\n## 探索资料库\n\n从一件装备到一段旅程，让每一次探索都有方向。\n\n永恒之塔2数据库\n\n### 物品装备\n\n武器、护甲、配饰与消耗品\n\n12,815\n\n### 职业技能\n\n技能效果与职业成长\n\n16,454\n\n### 任务指南\n\n任务流程、条件与奖励\n\n1,537\n\n### 角色与 NPC\n\n寻找角色与相关资料\n\n13,725\n\n### 制作配方\n\n材料需求与制作产物\n\n1,076\n\n### 副本资料\n\n探索副本与挑战首领\n\n## 出发，探索亚特雷亚\n\n规划成长，发现世界，也遇见并肩作战的伙伴。\n\n玩家社区\n\n世界探险\n\n### 让每一场冒险，都有迹可循\n\n探索区域、采集地点与主神痕迹。\n\n打开交互地图\n\n角色建造器\n\n### 构建你的战斗风格\n\n搭配装备与技能，规划角色成长。\n\n开始构建\n\n社区\n\n### 冒险路上，不止一人\n\n交流攻略心得，分享你的发现。\n\n浏览攻略心得\n\n## 台服游戏资料 v105\n\n资料更新于 2026-09-04 · 在这里查找物品、技能与任务，规划下一步成长。\n\n反馈与建议"
+      ],
+      "source": {
+        "id": "dvg",
+        "title": "永恒之塔2小册子",
+        "source_identity": "永恒之塔2小册子",
+        "url": "https://aion2.dvg.cn/zh/",
+        "region": "TW",
+        "version": null,
+        "source_dates": [
+          "原采集记录；详见本地原文"
+        ],
+        "retrieved_at": "2026-09-29T09:00:13.669473+00:00",
+        "adoption": "复用此前取得的原件；仅作台服参考"
+      }
+    }
+  },
+  {
+    "id": "3a23fbfce907",
+    "title": "奥德能量：恢复、消耗与分配",
+    "topic": "资源管理",
+    "body_file": "01_中文正文/资源管理.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "3a23fbfce907",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "3a23fbfce907",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "3a23fbfce907",
+        "title": "Odyle Energy — the resource that caps your evening",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/odyle-energy/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "d13c1aa69a3c",
+    "title": "新手常见失误与资源浪费",
+    "topic": "资源管理",
+    "body_file": "01_中文正文/资源管理.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "d13c1aa69a3c",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "d13c1aa69a3c",
+        "title": "The most common mistakes — costliest first",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/mistakes/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-23"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "673bfaf95a93",
+    "title": "制作系统目录",
+    "topic": "采集与制作",
+    "body_file": "01_中文正文/采集与制作.md",
+    "has_body": false,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "673bfaf95a93",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [
+        "永恒之塔2码典\n\n# 制作\n\n在永恒之塔2中，制作并非可选内容。游戏中最强的装备都来自制作台。\n\n## 按此顺序\n\n先采集再制作，制作再进入武器路径。从最后开始，你会买得更贵。\n\n### 五个职业——选择两个\n\n锻造、装甲锻造、手工艺、炼金术、烹饪。它们各自的功能、收益，以及为何你不应学习全部五个职业。\n\n### 采集——在行走时顺便进行采集\n\n三个等级，每个等级都有明确的好处。并且说明采集为何是所有职业的基础。\n\n### 制作武器的路线\n\n从黄铜到贵族龙王。各等级之间的关系以及哪一步是最困难的。"
+      ],
+      "source": {
+        "id": "673bfaf95a93",
+        "title": "Crafting",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/crafting/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "页面未明确标注"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "70c9f96905ac",
+    "title": "制作武器的材料与升级路线",
+    "topic": "采集与制作",
+    "body_file": "01_中文正文/采集与制作.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "70c9f96905ac",
+          "node_id": "A2-V002",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        },
+        {
+          "record_kind": "document",
+          "record_id": "70c9f96905ac",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "70c9f96905ac",
+        "title": "The route to a crafted weapon",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/crafting/weapon-path/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-18"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "74337d2a4ee4",
+    "title": "采集：升级途中积累材料",
+    "topic": "采集与制作",
+    "body_file": "01_中文正文/采集与制作.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "74337d2a4ee4",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "74337d2a4ee4",
+        "title": "Gathering — collect while you are walking anyway",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/crafting/gathering/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-23"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "db2c3a54a25a",
+    "title": "继承制作：保留投入并升级装备",
+    "topic": "采集与制作",
+    "body_file": "01_中文正文/采集与制作.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "db2c3a54a25a",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "db2c3a54a25a",
+        "title": "Transfer crafting — upgrade instead of starting over",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/systems/transfer/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-09-06"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  },
+  {
+    "id": "ddf84ddae9e9",
+    "title": "台服官方：精气萃取与采集升级",
+    "topic": "采集与制作",
+    "body_file": "01_中文正文/采集与制作.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "ddf84ddae9e9",
+          "node_id": "A2-V022",
+          "scope_role": "source_scope",
+          "basis": "按正文段落汇总",
+          "source_updated_at": "2026-03-30",
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-30T02:43:31.855051+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "ddf84ddae9e9",
+        "title": "台服官方：精气萃取与采集升级",
+        "source_identity": "NCSOFT台服官方指南",
+        "url": "https://tw.ncsoft.com/aion2/guidebook/view?title=精氣萃取",
+        "region": "台服",
+        "version": "A2-V022",
+        "source_dates": [
+          "2026-03-30"
+        ],
+        "retrieved_at": "2026-09-30T02:43:31.855051+00:00",
+        "adoption": "中文攻略要点已入库；本地可读取副本"
+      }
+    }
+  },
+  {
+    "id": "f22c193815a9",
+    "title": "五种制作专业：选择两项发展",
+    "topic": "采集与制作",
+    "body_file": "01_中文正文/采集与制作.md",
+    "has_body": true,
+    "information": {
+      "version_nodes": [
+        {
+          "record_kind": "document",
+          "record_id": "f22c193815a9",
+          "node_id": "A2-V008",
+          "scope_role": "unspecified",
+          "basis": "按正文段落汇总",
+          "source_updated_at": null,
+          "statement_as_of": null,
+          "retrieved_at": "2026-09-29T16:01:12.989220+00:00"
+        }
+      ],
+      "notes": [],
+      "source": {
+        "id": "f22c193815a9",
+        "title": "The five professions — pick two",
+        "source_identity": "Revyls / Aion 2 Kodex",
+        "url": "https://kodex.yavuz.app/en/crafting/professions/",
+        "region": "TW经验与Global测试差异，依正文标记",
+        "version": null,
+        "source_dates": [
+          "2026-08-23"
+        ],
+        "retrieved_at": "2026-09-29T16:01:12.989220+00:00",
+        "adoption": "来源快照及初步分类；按源使用，尚未实机验证"
+      }
+    }
+  }
+]

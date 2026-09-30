@@ -1,0 +1,320 @@
+[
+  {
+    "id": "aion2hub.com",
+    "name": "aion2hub.com",
+    "identity": "AION2 Hub",
+    "url": "https://aion2hub.com/classes",
+    "status": "已有本地原件或可读副本",
+    "dates": [
+      "2026-06-06",
+      "2026-06-07",
+      "2026-07-01",
+      "2026-08-31",
+      "2026-09-08",
+      "2026-09-19",
+      "2026-09-28",
+      "页面未明确标注"
+    ],
+    "uses": [
+      "地图",
+      "攻略",
+      "职业"
+    ]
+  },
+  {
+    "id": "kodex.yavuz.app",
+    "name": "kodex.yavuz.app",
+    "identity": "Revyls / Aion 2 Kodex",
+    "url": "https://kodex.yavuz.app/en/",
+    "status": "已有本地原件或可读副本",
+    "dates": [
+      "2026-08-23",
+      "2026-08-24",
+      "2026-08-25",
+      "2026-09-06",
+      "2026-09-18",
+      "2026-09-28",
+      "2026-09-29",
+      "页面未明确标注"
+    ],
+    "uses": [
+      "攻略"
+    ]
+  },
+  {
+    "id": "aion2.ncsoft.jp",
+    "name": "aion2.ncsoft.jp",
+    "identity": "NCSOFT Japan official Global site；NCSOFT国际版官方介绍",
+    "url": "https://aion2.ncsoft.jp/en/teaser",
+    "status": "已有本地原件或可读副本",
+    "dates": [
+      "页面未明确标注"
+    ],
+    "uses": [
+      "官方素材入口",
+      "官方职业与场景",
+      "职业选择"
+    ]
+  },
+  {
+    "id": "forum.gamer.com.tw",
+    "name": "forum.gamer.com.tw",
+    "identity": "巴哈：2026新手回锅攻略",
+    "url": "https://forum.gamer.com.tw/C.php?bsn=82913&snA=5939&subbsn=4_5_9_18_19&tnum=2",
+    "status": "已有本地原件或可读副本",
+    "dates": [
+      "原采集记录；详见本地原文"
+    ],
+    "uses": [
+      "台服中文参考"
+    ]
+  },
+  {
+    "id": "tw.ncsoft.com",
+    "name": "tw.ncsoft.com",
+    "identity": "NCSOFT台服官方指南；台服官方指南",
+    "url": "https://tw.ncsoft.com/aion2/guidebook/view?title=綜合強化",
+    "status": "已有本地原件或可读副本",
+    "dates": [
+      "2025-11-17",
+      "2026-03-30",
+      "原采集记录；详见本地原文"
+    ],
+    "uses": [
+      "台服中文参考",
+      "成长路线",
+      "采集与制作"
+    ]
+  },
+  {
+    "id": "aion2.dvg.cn",
+    "name": "aion2.dvg.cn",
+    "identity": "永恒之塔2小册子",
+    "url": "https://aion2.dvg.cn/zh/",
+    "status": "已有本地原件或可读副本",
+    "dates": [
+      "原采集记录；详见本地原文"
+    ],
+    "uses": [
+      "台服中文参考"
+    ]
+  },
+  {
+    "id": "aion2t.com",
+    "name": "aion2t.com",
+    "identity": "Aion2T／Qaser；Aion2T／Zaser",
+    "url": "https://aion2t.com/guides/ferocious-horn-den",
+    "status": "已有本地原件或可读副本",
+    "dates": [
+      "2026-02-25",
+      "2026-03-04",
+      "2026-03-06",
+      "2026-09-05",
+      "2026-09-23"
+    ],
+    "uses": [
+      "副本",
+      "成长路线"
+    ]
+  },
+  {
+    "id": "guidemmo.com",
+    "name": "guidemmo.com",
+    "identity": "GuideMMO／Iruminati",
+    "url": "https://guidemmo.com/sanctuaire-corroded-decontamination-facility-en/",
+    "status": "已有本地原件或可读副本",
+    "dates": [
+      "2026-07-09"
+    ],
+    "uses": [
+      "副本"
+    ]
+  },
+  {
+    "id": "www.inven.co.kr",
+    "name": "www.inven.co.kr",
+    "identity": "Inven／Aliin；Inven／Nirr；Inven／Rokah；汇总台服玩家测试并补充实验",
+    "url": "https://www.inven.co.kr/board/aion2/6444/370",
+    "status": "已有本地原件或可读副本",
+    "dates": [
+      "2025-11-23",
+      "2025-12-24",
+      "2026-01-22"
+    ],
+    "uses": [
+      "日常活动",
+      "装备养成",
+      "角色养成"
+    ]
+  },
+  {
+    "id": "用户提供",
+    "name": "用户提供",
+    "identity": "SUN提供的负责人采访笔记；采访日期由SUN确认",
+    "url": "",
+    "status": "已有本地原件或可读副本",
+    "dates": [
+      "2026-09-29"
+    ],
+    "uses": [
+      "版本与运营"
+    ]
+  },
+  {
+    "id": "steamcommunity.com",
+    "name": "steamcommunity.com",
+    "identity": "NCSOFT／9月19日测试结束公告；NCSOFT／9月29日官方服务器公告",
+    "url": "https://steamcommunity.com/games/3393110/announcements/detail/689769594581155931",
+    "status": "已有本地原件或可读副本",
+    "dates": [
+      "2026-09-19",
+      "2026-09-29"
+    ],
+    "uses": [
+      "付费与交易",
+      "开服与设置"
+    ]
+  },
+  {
+    "id": "steamstore-a.akamaihd.net",
+    "name": "steamstore-a.akamaihd.net",
+    "identity": "NCSOFT／9月29日官方配对公告",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498232853",
+    "status": "已有本地原件或可读副本",
+    "dates": [
+      "2026-09-29"
+    ],
+    "uses": [
+      "玩家对战"
+    ]
+  },
+  {
+    "id": "www.douyin.com",
+    "name": "www.douyin.com",
+    "identity": "80后老梅游戏攻略／抖音；凛月月月月月／抖音；南风 游戏分享／抖音；巨哥／抖音；李七夜子／抖音；温蒂的游戏小屋／抖音；里奥poe／抖音",
+    "url": "https://www.douyin.com/video/7651804247117275810",
+    "status": "已有本地原件或可读副本",
+    "dates": [
+      "2026-06-16",
+      "2026-07-15",
+      "2026-09-27",
+      "2026-09-28",
+      "2026-09-29"
+    ],
+    "uses": [
+      "玩家经验"
+    ]
+  },
+  {
+    "id": "official-face",
+    "name": "台服官方捏脸画廊",
+    "identity": "台服官方捏脸画廊",
+    "url": "https://tw.ncsoft.com/aion2/styleshop/popular",
+    "status": "已有本地文件",
+    "dates": [
+      "2026-09-30"
+    ],
+    "uses": [
+      "捏脸作品",
+      "人物参考"
+    ]
+  },
+  {
+    "id": "community-face",
+    "name": "社区捏脸帖子",
+    "identity": "社区捏脸帖子",
+    "url": "https://gall.dcinside.com/mgallery/board/view/?id=aion2&no=1263316",
+    "status": "已有本地文件",
+    "dates": [
+      "2026-09-30"
+    ],
+    "uses": [
+      "捏脸作品",
+      "参数附件"
+    ]
+  },
+  {
+    "id": "xianyu",
+    "name": "闲鱼商品页面",
+    "identity": "闲鱼商品页面",
+    "url": "https://www.goofish.com/item?spm=a21ybx.search.searchFeedList.8.1ba933c2K6P0qT&id=1062414121283&categoryId=201459411",
+    "status": "已有本地文件",
+    "dates": [
+      "2026-09-30"
+    ],
+    "uses": [
+      "商品标题",
+      "封面参考"
+    ]
+  },
+  {
+    "id": "fankit",
+    "name": "日服官方同人素材包",
+    "identity": "日服官方同人素材包",
+    "url": "https://discord.com/channels/1488824550618824814/1537286039775744040",
+    "status": "已有本地文件",
+    "dates": [
+      "2026-09-30"
+    ],
+    "uses": [
+      "标志",
+      "职业图标",
+      "背景",
+      "种族徽记"
+    ]
+  },
+  {
+    "id": "aion2.plaync.com",
+    "name": "韩服官方入口",
+    "identity": "NCSOFT韩国官方网站",
+    "url": "https://aion2.plaync.com/ko-kr/index?redirect=false",
+    "status": "本地首页检索节录与动态外壳；具体指南仍是线索",
+    "dates": [
+      "2026-09-29"
+    ],
+    "uses": [
+      "首页导航和介绍节录；未取得具体公告全文"
+    ]
+  },
+  {
+    "id": "aion2.sdo.com",
+    "name": "盛趣官方网站",
+    "identity": "盛趣游戏AION2官方网站",
+    "url": "https://aion2.sdo.com/",
+    "status": "仅本地导航节录；具体运营信息仍是来源线索",
+    "dates": [
+      "2026-09-29"
+    ],
+    "uses": [
+      "浏览工具返回栏目外壳；直接HTTP请求失败"
+    ]
+  },
+  {
+    "id": "aion2.dev",
+    "name": "Aion2.dev",
+    "identity": "Aion2.dev社区项目",
+    "url": "https://aion2.dev/",
+    "status": "已取得本地对象与地图资料",
+    "dates": [
+      "2026-09-29"
+    ],
+    "uses": [
+      "Steam测试版技能与对象",
+      "地图点位",
+      "构建25344886"
+    ]
+  },
+  {
+    "id": "www.reddit.com",
+    "name": "Kodex作者介绍与玩家讨论",
+    "identity": "Reddit r/Aion2，Ok_Book_5001自述为Revyls",
+    "url": "https://www.reddit.com/r/Aion2/comments/1vwkbbx/i_played_aion_2_on_tw_and_wrote_down_the/",
+    "status": "本地浏览工具可读副本",
+    "dates": [
+      "2026-09-29"
+    ],
+    "uses": [
+      "作者原帖及当前工具返回的可见回复；非全部折叠回复"
+    ]
+  }
+]

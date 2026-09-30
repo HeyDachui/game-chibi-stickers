@@ -1,0 +1,68 @@
+[
+  {
+    "id": "draft-0",
+    "title": "永恒之塔2Steam服升级攻略流程分享",
+    "category": "攻略文稿",
+    "status": "整理稿已交付；采用与发布未登记",
+    "notes": [],
+    "body_file": "07_已有文稿/永恒之塔2Steam服升级攻略流程分享.md"
+  },
+  {
+    "id": "draft-1",
+    "title": "永恒之塔2开荒20个小技巧",
+    "category": "攻略文稿",
+    "status": "整理稿已交付；采用与发布未登记",
+    "notes": [],
+    "body_file": "07_已有文稿/永恒之塔2开荒20个小技巧.md"
+  },
+  {
+    "id": "draft-2",
+    "title": "永恒之塔2开荒收益注意要点",
+    "category": "攻略文稿",
+    "status": "整理稿已交付；采用与发布未登记",
+    "notes": [],
+    "body_file": "07_已有文稿/永恒之塔2开荒收益注意要点.md"
+  },
+  {
+    "id": "sun-voice-r2",
+    "title": "Steam服开测前期分享",
+    "category": "口播与配音",
+    "status": "SUN定稿；第二版配音已交付，发布未登记",
+    "notes": [
+      "108.861秒；16个配音单元；88行字幕。沿用执行线程检查结论。"
+    ],
+    "body_file": "07_已有文稿/Steam服开测前期分享.md"
+  },
+  {
+    "id": "face-reference",
+    "title": "捏脸作品与参数附件",
+    "category": "人物素材",
+    "status": "122件作品已交付",
+    "notes": [
+      "官方112件：女62、男50；社区女10件。固定编号F001—F062、M001—M050、C001—C010。"
+    ]
+  },
+  {
+    "id": "emoji-preparation",
+    "title": "表情包制作",
+    "category": "筹备中",
+    "status": "先学习旧流程、与SUN沟通，确认后制作",
+    "notes": [
+      "本次不启动生成。"
+    ]
+  },
+  {
+    "id": "official-fankit",
+    "title": "官方同人素材包",
+    "category": "官方素材",
+    "status": "57项文件已交付",
+    "notes": []
+  },
+  {
+    "id": "xianyu-reference",
+    "title": "闲鱼捏脸商品参考",
+    "category": "商品参考",
+    "status": "198件商品标题与封面已归档",
+    "notes": []
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "path": "01_中文正文/世界背景.md",
+    "bytes": 4729,
+    "sha256": "c74fab57812e36ae9d1ed2eaca3d23594fc1f544d718aad57c8f39c47f29e129"
+  },
+  {
+    "path": "01_中文正文/付费与交易.md",
+    "bytes": 10350,
+    "sha256": "c8f2d7f6cc318d7504ac3f75a577ba654ec0e16eacfc07652008769b24d6b39b"
+  },
+  {
+    "path": "01_中文正文/副本.md",
+    "bytes": 31463,
+    "sha256": "4e5003b22925c441731ca45a04ae954c95aa4713303a7d6cb6a9addc3101dfb6"
+  },
+  {
+    "path": "01_中文正文/地图探索.md",
+    "bytes": 6766,
+    "sha256": "4b3f150ac4b4d59fa1807efa44c561d06bd1ec12c820a28d0518ce1dc877a985"
+  },
+  {
+    "path": "01_中文正文/常见问题.md",
+    "bytes": 3539,
+    "sha256": "0ffdc6b0d11934b953df7aa9c7f59a8e91b555d52dc09e1816fe53ae765a86c3"
+  },
+  {
+    "path": "01_中文正文/开服与设置.md",
+    "bytes": 28381,
+    "sha256": "1086640f25ecfd985587ef1293d0117e1682998cc46e449d92a362375b9ac7c2"
+  },
+  {
+    "path": "01_中文正文/成长路线.md",
+    "bytes": 86126,
+    "sha256": "801425aaa74a32fbe00eb9d4afb766ee2a216a03b413fbb3660457ab053a82d4"
+  },
+  {
+    "path": "01_中文正文/日常活动.md",
+    "bytes": 4839,
+    "sha256": "2b61532a4c632f706cea6c6fb7a0b3d4bbffb7611544ab340bfb87fc113ce7e7"
+  },
+  {
+    "path": "01_中文正文/术语.md",
+    "bytes": 6935,
+    "sha256": "1a04caab24589331d24dd37893054a9c5aadf93f66c8f7dbff941b2956cd77d7"
+  },
+  {
+    "path": "01_中文正文/版本与运营.md",
+    "bytes": 1139,
+    "sha256": "c3a11ae417ec4781e1fce7e48ec43b1396c2fad0036ac758196b7f4f2ee13fb5"
+  },
+  {
+    "path": "01_中文正文/玩家对战.md",
+    "bytes": 27451,
+    "sha256": "66114e56bebf6c22db688d04e391dbf098515c150167ccc4e8e3170331fe126b"
+  },
+  {
+    "path": "01_中文正文/玩家经验.md",
+    "bytes": 15904,
+    "sha256": "8e12512e4eff48c5efd46631f5b3b32dea671af3ddf29118d03dda4c82f8fc2d"
+  },
+  {
+    "path": "01_中文正文/职业选择.md",
+    "bytes": 31882,
+    "sha256": "c5333653f4577b7d33505dc9b6620969c6226dc80a153f949c79de6df0e1e431"
+  },
+  {
+    "path": "01_中文正文/装备养成.md",
+    "bytes": 38103,
+    "sha256": "498f65860def9d9d98221bfc7a08715fcca9902d9128bfe3ce94dbaa556864a6"
+  },
+  {
+    "path": "01_中文正文/角色养成.md",
+    "bytes": 9484,
+    "sha256": "74cdc1afe302ef482a1cff302c3a6bcf04ee5ba9e80af0fa8be20ff000361da4"
+  },
+  {
+    "path": "01_中文正文/资源管理.md",
+    "bytes": 9236,
+    "sha256": "ad994ded3278a69fbced8fbf93ba2cbf2c4987d7e9bf12c3bce6d2fae5c4ea99"
+  },
+  {
+    "path": "01_中文正文/采集与制作.md",
+    "bytes": 16627,
+    "sha256": "3d29038dde817c51ac60a97ed3c707b1c4fabab28cde83be1778cad13fa159aa"
+  },
+  {
+    "path": "02_来源与版本/资料索引.json",
+    "bytes": 181683,
+    "sha256": "5005d23efa51b527e7ce2c7aec847072cc778d5324864014c884de181ef42b72"
+  },
+  {
+    "path": "02_来源与版本/版本节点.json",
+    "bytes": 9662,
+    "sha256": "601ec61082a54b11aa373729f947617deb228370872f5abb055b2ce9246fa847"
+  },
+  {
+    "path": "02_来源与版本/来源网站.json",
+    "bytes": 8202,
+    "sha256": "4d173b180db54588d7c84b94ab1326a89f82dd5befa2239e83c0a746a681c904"
+  },
+  {
+    "path": "03_可查询条目/正文条目.jsonl",
+    "bytes": 1078535,
+    "sha256": "aa99a496c2fbb7ec3941834412497453a018829bcfe16970f87ec4c288c3b138"
+  },
+  {
+    "path": "02_来源与版本/仅信息条目.jsonl",
+    "bytes": 79713,
+    "sha256": "8c96fefe6ad4443eb1a4f32da910fb486c6585359a564ba572c5d93583758a27"
+  },
+  {
+    "path": "04_职业技能与对象/职业.json",
+    "bytes": 38664,
+    "sha256": "600b6e76c420cf1b551107d3588ffdb8766a9eb0e88e29577ff71d5df4845d18"
+  },
+  {
+    "path": "04_职业技能与对象/职业对象.jsonl",
+    "bytes": 4090,
+    "sha256": "984f573be8bb7836ebe7749083784e332717cc9bccd71be21593018f0e7c1ff6"
+  },
+  {
+    "path": "04_职业技能与对象/副本.jsonl",
+    "bytes": 79416,
+    "sha256": "570078514138ebbc7d2f7d4c9b41379bfe08bdacbf88d6df4c7950fae392fb07"
+  },
+  {
+    "path": "04_职业技能与对象/技能.jsonl",
+    "bytes": 275541,
+    "sha256": "253f70e331b2e572b529b9b953a912caf5391ef48c18570391534fbb86a195cb"
+  },
+  {
+    "path": "附录_原始字段/客户端对象字段.jsonl",
+    "bytes": 5800953,
+    "sha256": "e3057222a05552b5f72345a5869857fbd544b7058f07a6c3ccb9557d35266409"
+  },
+  {
+    "path": "04_职业技能与对象/对象关系.jsonl",
+    "bytes": 478507,
+    "sha256": "c1692052153a8f89d2d7c7ec55354985d2e19e23bcce0d1a41a39005fa1a8e81"
+  },
+  {
+    "path": "05_地图与点位/地图.json",
+    "bytes": 7580,
+    "sha256": "06337508e837856893ea94ebfd03b1745cf8b4643c650df4fc2e2a5253e29bfc"
+  },
+  {
+    "path": "05_地图与点位/点位.jsonl",
+    "bytes": 879394,
+    "sha256": "184ef9ef82127f6b1f8d73566a2621afe7ef554d3f8a634f3649ead214e1033d"
+  },
+  {
+    "path": "06_玩家经验/视频文字/巨哥_7651804247117275810.txt",
+    "bytes": 1455,
+    "sha256": "734f589a23ec29f6d509f8de64a8a76b07207f1253a1e4aa0f8af77aae448aac"
+  },
+  {
+    "path": "06_玩家经验/视频文字/80后老梅游戏攻略_7690444573507587382.txt",
+    "bytes": 2331,
+    "sha256": "33e204a17cc0b89cadfb3ff8ce29003975da1434cc71e325c1fe5d41ea79a285"
+  },
+  {
+    "path": "06_玩家经验/视频文字/里奥poe_7690833260200430884.txt",
+    "bytes": 2646,
+    "sha256": "218b18f9a3a0532f50096ce30259f55dfc6f4989d92bfaa2f82dd18c3f4efabd"
+  },
+  {
+    "path": "06_玩家经验/视频文字/凛月月月月月_7689876326244715817.txt",
+    "bytes": 3417,
+    "sha256": "c52e31dee18ce702c3111cecd002eb80ba0f3008a2502a965e2eac94272cef37"
+  },
+  {
+    "path": "06_玩家经验/视频文字/南风 游戏分享_7690523694287899947.txt",
+    "bytes": 4165,
+    "sha256": "eb81e9efef6daba2c6802d6ca260e08ae676be46247aeaca9ff0ac48d57ee2b2"
+  },
+  {
+    "path": "06_玩家经验/视频文字/温蒂的游戏小屋_7662498161163849023.txt",
+    "bytes": 8461,
+    "sha256": "a5a7cdf39b238b7b7004ac735e57e1f5794d74a0801d0c18b93b66529a9617bc"
+  },
+  {
+    "path": "06_玩家经验/视频文字/李七夜子_7690449288039599379.txt",
+    "bytes": 20531,
+    "sha256": "06d299411699059dcb3f49bc2ff6ff7de9c7018a18dd334c2b3fd0d47f1d5def"
+  },
+  {
+    "path": "06_玩家经验/来源.json",
+    "bytes": 6911,
+    "sha256": "3f4165d43fbc56df9d19e1f3f2893b676016c57e0a66744436ce7a6aaaf12869"
+  },
+  {
+    "path": "06_玩家经验/原子句.jsonl",
+    "bytes": 144116,
+    "sha256": "6566afabe38523fc360077c1ebeb369fba30312ff1420651847fb694dc2d1e99"
+  },
+  {
+    "path": "06_玩家经验/步骤关系.jsonl",
+    "bytes": 10884,
+    "sha256": "0572c8064af6eb69e0036c49a8097115953d3cfbd2a76aab4444d6e84cea489a"
+  },
+  {
+    "path": "06_玩家经验/补充信息.json",
+    "bytes": 37471,
+    "sha256": "7d36732a2f93920d587f0b252a3da7db859263ef33624effffc6d911ef952703"
+  },
+  {
+    "path": "07_已有文稿/永恒之塔2Steam服升级攻略流程分享.md",
+    "bytes": 4407,
+    "sha256": "2850a8fe14c093070974f853f06829683e8543a2984a5c20dba8f52d261b5dee"
+  },
+  {
+    "path": "07_已有文稿/永恒之塔2开荒20个小技巧.md",
+    "bytes": 4826,
+    "sha256": "bb1a25bd446f59f3abaa79cac51814aa5dd2b51fc0ad07cff0b1b90ea5b79fdb"
+  },
+  {
+    "path": "07_已有文稿/永恒之塔2开荒收益注意要点.md",
+    "bytes": 2870,
+    "sha256": "6ba0b51a9904c077bf324c5d1f860c70c12129954984fa6eca11a324d110079e"
+  },
+  {
+    "path": "07_已有文稿/Steam服开测前期分享.md",
+    "bytes": 2287,
+    "sha256": "061684bf13bb197621c6364fba94c3b8daff0c71cca47029113f25dddaff6bae"
+  },
+  {
+    "path": "07_已有文稿/文稿与交付状态.json",
+    "bytes": 2040,
+    "sha256": "43a8def595dbd736c9c2a3785ce4b3dc7c7a302247c4762384fe326e1f32c74e"
+  },
+  {
+    "path": "07_已有文稿/信息_编稿依据与待核.md",
+    "bytes": 5576,
+    "sha256": "2cb14d011a56e4602d88a3fe4fc9ac469365c99b03053e55d9ca407e05993704"
+  },
+  {
+    "path": "08_媒体原网址/图片原网址.jsonl",
+    "bytes": 695455,
+    "sha256": "86749e3e467f9e3e27a9ef3bd05f948c9a2960de18fa16260e31237c26a341e6"
+  },
+  {
+    "path": "08_媒体原网址/视频原网址.jsonl",
+    "bytes": 6352,
+    "sha256": "58e0873831a632cfeac4667ad35062eb7a30476900d5cf5dfd8721930ec108a0"
+  },
+  {
+    "path": "08_媒体原网址/无外部地址素材.json",
+    "bytes": 26872,
+    "sha256": "43ae363ea1c2b23e393d971e43d56876fcc75ead7027c6801042c75f7d0eae02"
+  },
+  {
+    "path": "08_媒体原网址/补充参考文档网址.json",
+    "bytes": 1242,
+    "sha256": "e9f70efe4f1d4f9eb041a86454b5284ba3b867db07e3f30defa5c4ddeb52fd0b"
+  },
+  {
+    "path": "08_媒体原网址/官方捏脸作品.json",
+    "bytes": 102534,
+    "sha256": "83bbeb77c6480c600bf1e10a6032338edd194752898dc1cb5c5a250abf4a39fd"
+  },
+  {
+    "path": "08_媒体原网址/社区捏脸作品.json",
+    "bytes": 75601,
+    "sha256": "4b2b6e8e204829c521f5eedd948059c57589705f5af89b96fe156f9160e289af"
+  },
+  {
+    "path": "08_媒体原网址/闲鱼商品文字与封面网址.jsonl",
+    "bytes": 96993,
+    "sha256": "7c1159aa9c54cb2ba8ea27a7bb22ab38fed88b5051283bfe73011c16a658c69d"
+  },
+  {
+    "path": "08_媒体原网址/分类索引.md",
+    "bytes": 766,
+    "sha256": "c2b332019447721827369bf465b39ddd3da07697c3f985ef87cca8bdd0c02a51"
+  },
+  {
+    "path": "数据概览.json",
+    "bytes": 458,
+    "sha256": "ce398bade725b7982ca98228e6ec717bb2c8046e6e698df66184e2367fcc8a1d"
+  },
+  {
+    "path": "00_先读我.md",
+    "bytes": 3115,
+    "sha256": "9b323a92e51f298efbc8742270b02556bf7f0aa7e732f20c07882b43dbd96aef"
+  }
+]

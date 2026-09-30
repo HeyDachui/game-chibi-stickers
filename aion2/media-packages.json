@@ -1,0 +1,34 @@
+[
+  {
+    "name": "aion2-face-studies-01.zip",
+    "title": "脸型研究三视图_01",
+    "url": "https://github.com/HeyDachui/game-chibi-stickers/releases/download/aion2-materials-20260930/aion2-face-studies-01.zip",
+    "bytes": 30788901,
+    "images": 15,
+    "sha256": "d99831877c4d1baa55752d22ad6c552baa29467d50ababf83df32f0b999c9bec"
+  },
+  {
+    "name": "aion2-face-studies-02.zip",
+    "title": "脸型研究三视图_02",
+    "url": "https://github.com/HeyDachui/game-chibi-stickers/releases/download/aion2-materials-20260930/aion2-face-studies-02.zip",
+    "bytes": 29070722,
+    "images": 14,
+    "sha256": "bf5eb550926da6c42018cf7b9198cf4eaa5c671af6b7f04aaa620732374f5173"
+  },
+  {
+    "name": "aion2-backgrounds-01.zip",
+    "title": "再生场景背景_01",
+    "url": "https://github.com/HeyDachui/game-chibi-stickers/releases/download/aion2-materials-20260930/aion2-backgrounds-01.zip",
+    "bytes": 22247876,
+    "images": 9,
+    "sha256": "a3baf6843c240cab453f9ce396476c3c830ccfff94ca7b5382475bd8d476e0eb"
+  },
+  {
+    "name": "aion2-backgrounds-02.zip",
+    "title": "再生场景背景_02",
+    "url": "https://github.com/HeyDachui/game-chibi-stickers/releases/download/aion2-materials-20260930/aion2-backgrounds-02.zip",
+    "bytes": 22204362,
+    "images": 9,
+    "sha256": "02833ea4275b4e71f95224c6d365b97fef10bfb8f41ecaa600572161a1f29c59"
+  }
+]

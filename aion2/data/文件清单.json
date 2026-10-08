@@ -205,34 +205,9 @@
     "sha256": "7d36732a2f93920d587f0b252a3da7db859263ef33624effffc6d911ef952703"
   },
   {
-    "path": "07_已有文稿/永恒之塔2Steam服升级攻略流程分享.md",
-    "bytes": 4407,
-    "sha256": "2850a8fe14c093070974f853f06829683e8543a2984a5c20dba8f52d261b5dee"
-  },
-  {
-    "path": "07_已有文稿/永恒之塔2开荒20个小技巧.md",
-    "bytes": 4826,
-    "sha256": "bb1a25bd446f59f3abaa79cac51814aa5dd2b51fc0ad07cff0b1b90ea5b79fdb"
-  },
-  {
-    "path": "07_已有文稿/永恒之塔2开荒收益注意要点.md",
-    "bytes": 2870,
-    "sha256": "6ba0b51a9904c077bf324c5d1f860c70c12129954984fa6eca11a324d110079e"
-  },
-  {
     "path": "07_已有文稿/Steam服开测前期分享.md",
     "bytes": 2287,
     "sha256": "061684bf13bb197621c6364fba94c3b8daff0c71cca47029113f25dddaff6bae"
-  },
-  {
-    "path": "07_已有文稿/文稿与交付状态.json",
-    "bytes": 2040,
-    "sha256": "43a8def595dbd736c9c2a3785ce4b3dc7c7a302247c4762384fe326e1f32c74e"
-  },
-  {
-    "path": "07_已有文稿/信息_编稿依据与待核.md",
-    "bytes": 5576,
-    "sha256": "2cb14d011a56e4602d88a3fe4fc9ac469365c99b03053e55d9ca407e05993704"
   },
   {
     "path": "08_媒体原网址/图片原网址.jsonl",
@@ -277,11 +252,11 @@
   {
     "path": "数据概览.json",
     "bytes": 458,
-    "sha256": "ce398bade725b7982ca98228e6ec717bb2c8046e6e698df66184e2367fcc8a1d"
+    "sha256": "1b3b1e30427435c8ddec58d989947c4e9cf1cb1f7ae62b0f7d884d6dc81ab9c8"
   },
   {
     "path": "00_先读我.md",
-    "bytes": 3115,
-    "sha256": "9b323a92e51f298efbc8742270b02556bf7f0aa7e732f20c07882b43dbd96aef"
+    "bytes": 3056,
+    "sha256": "80f8093b26bee5e1057977224367bcbbc97674ea725b21e8508336428b5b7e86"
   }
 ]

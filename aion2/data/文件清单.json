@@ -205,6 +205,21 @@
     "sha256": "7d36732a2f93920d587f0b252a3da7db859263ef33624effffc6d911ef952703"
   },
   {
+    "path": "07_已有文稿/永恒之塔2Steam服升级攻略流程分享.md",
+    "bytes": 4407,
+    "sha256": "2850a8fe14c093070974f853f06829683e8543a2984a5c20dba8f52d261b5dee"
+  },
+  {
+    "path": "07_已有文稿/永恒之塔2开荒20个小技巧.md",
+    "bytes": 4826,
+    "sha256": "bb1a25bd446f59f3abaa79cac51814aa5dd2b51fc0ad07cff0b1b90ea5b79fdb"
+  },
+  {
+    "path": "07_已有文稿/永恒之塔2开荒收益注意要点.md",
+    "bytes": 2870,
+    "sha256": "6ba0b51a9904c077bf324c5d1f860c70c12129954984fa6eca11a324d110079e"
+  },
+  {
     "path": "07_已有文稿/Steam服开测前期分享.md",
     "bytes": 2287,
     "sha256": "061684bf13bb197621c6364fba94c3b8daff0c71cca47029113f25dddaff6bae"
@@ -256,7 +271,7 @@
   },
   {
     "path": "00_先读我.md",
-    "bytes": 3056,
-    "sha256": "80f8093b26bee5e1057977224367bcbbc97674ea725b21e8508336428b5b7e86"
+    "bytes": 3100,
+    "sha256": "5fbcd5f0c0ed6050895c2f2a1afa481b4afa0bd1409639b980ef4f44cd2a970e"
   }
 ]
